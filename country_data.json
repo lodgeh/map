@@ -1,0 +1,2615 @@
+{
+    "af": {
+        "name": "Afghanistan",
+        "capital": [
+            "Kabul"
+        ],
+        "currency": [
+            "Afghani (\u0627\u0641\u063a\u0627\u0646\u06cc) (AFN)"
+        ],
+        "country_code_iso_3166": "AF",
+        "internet_tld": ".af\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646.",
+        "calling_code": "+93",
+        "wiki_url": "/wiki/Afghanistan"
+    },
+    "al": {
+        "name": "Albania",
+        "capital": [
+            "Tirana"
+        ],
+        "currency": [
+            "Lek (ALL)"
+        ],
+        "country_code_iso_3166": "AL",
+        "internet_tld": ".al",
+        "calling_code": "+355",
+        "wiki_url": "/wiki/Albania"
+    },
+    "dz": {
+        "name": "Algeria",
+        "capital": [
+            "Algiers"
+        ],
+        "currency": [
+            "Algerian dinar (DZD)"
+        ],
+        "country_code_iso_3166": "DZ",
+        "internet_tld": ".dz\u0627\u0644\u062c\u0632\u0627\u0626\u0631.",
+        "calling_code": "+213",
+        "wiki_url": "/wiki/Algeria"
+    },
+    "ad": {
+        "name": "Andorra",
+        "capital": [
+            "Andorra la Vella"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "AD",
+        "internet_tld": ".ad",
+        "calling_code": "+376",
+        "wiki_url": "/wiki/Andorra"
+    },
+    "ao": {
+        "name": "Angola",
+        "capital": [
+            "Luanda"
+        ],
+        "currency": [
+            "Kwanza (AOA)"
+        ],
+        "country_code_iso_3166": "AO",
+        "internet_tld": ".ao",
+        "calling_code": "+244",
+        "wiki_url": "/wiki/Angola"
+    },
+    "ag": {
+        "name": "Antigua and Barbuda",
+        "capital": [
+            "St. John's"
+        ],
+        "currency": [
+            "East Caribbean dollar (XCD)"
+        ],
+        "country_code_iso_3166": "AG",
+        "internet_tld": ".ag",
+        "calling_code": "+1-268",
+        "wiki_url": "/wiki/Antigua_and_Barbuda"
+    },
+    "ar": {
+        "name": "Argentina",
+        "capital": [
+            "Buenos Aires"
+        ],
+        "currency": [
+            "Argentine peso ($) (ARS)"
+        ],
+        "country_code_iso_3166": "AR",
+        "internet_tld": ".ar",
+        "calling_code": "+54",
+        "wiki_url": "/wiki/Argentina"
+    },
+    "am": {
+        "name": "Armenia",
+        "capital": [
+            "Yerevan"
+        ],
+        "currency": [
+            "Dram\u00a0(\u058f) (AMD)"
+        ],
+        "country_code_iso_3166": "AM",
+        "internet_tld": ".am.\u0570\u0561\u0575",
+        "calling_code": "+374",
+        "wiki_url": "/wiki/Armenia"
+    },
+    "au": {
+        "name": "Australia",
+        "capital": [
+            "Canberra"
+        ],
+        "currency": [
+            "Australian dollar ($) (AUD)"
+        ],
+        "country_code_iso_3166": "AU",
+        "internet_tld": ".au",
+        "calling_code": "+61",
+        "wiki_url": "/wiki/Australia"
+    },
+    "at": {
+        "name": "Austria",
+        "capital": [
+            "Vienna"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "AT",
+        "internet_tld": ".at",
+        "calling_code": "+43",
+        "wiki_url": "/wiki/Austria"
+    },
+    "az": {
+        "name": "Azerbaijan",
+        "capital": [
+            "Baku"
+        ],
+        "currency": [
+            "Manat (\u20bc) (AZN)"
+        ],
+        "country_code_iso_3166": "AZ",
+        "internet_tld": ".az",
+        "calling_code": "+994",
+        "wiki_url": "/wiki/Azerbaijan"
+    },
+    "bs": {
+        "name": "The Bahamas",
+        "capital": [
+            "Nassau"
+        ],
+        "currency": [
+            "Bahamian dollar (BSD)",
+            "United States dollar (USD)"
+        ],
+        "country_code_iso_3166": "BS",
+        "internet_tld": ".bs",
+        "calling_code": "+1 242",
+        "wiki_url": "/wiki/The_Bahamas"
+    },
+    "bh": {
+        "name": "Bahrain",
+        "capital": [
+            "Manama"
+        ],
+        "currency": [
+            "Bahraini dinar (BHD)"
+        ],
+        "country_code_iso_3166": "BH",
+        "internet_tld": ".bh",
+        "calling_code": "+973",
+        "wiki_url": "/wiki/Bahrain"
+    },
+    "bd": {
+        "name": "Bangladesh",
+        "capital": [
+            "Dhaka"
+        ],
+        "currency": [
+            "Taka (\u09f3) (BDT)"
+        ],
+        "country_code_iso_3166": "BD",
+        "internet_tld": ".bd.\u09ac\u09be\u0982\u09b2\u09be",
+        "calling_code": "+880",
+        "wiki_url": "/wiki/Bangladesh"
+    },
+    "bb": {
+        "name": "Barbados",
+        "capital": [
+            "Bridgetown"
+        ],
+        "currency": [
+            "Barbadian dollar ($) (BBD)"
+        ],
+        "country_code_iso_3166": "BB",
+        "internet_tld": ".bb",
+        "calling_code": "+1 -246",
+        "wiki_url": "/wiki/Barbados"
+    },
+    "by": {
+        "name": "Belarus",
+        "capital": [
+            "Minsk"
+        ],
+        "currency": [
+            "Belarusian rubel (BYN)"
+        ],
+        "country_code_iso_3166": "BY",
+        "internet_tld": ".by.\u0431\u0435\u043b",
+        "calling_code": "+375",
+        "wiki_url": "/wiki/Belarus"
+    },
+    "be": {
+        "name": "Belgium",
+        "capital": [
+            "Brussels"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "BE",
+        "internet_tld": ".be",
+        "calling_code": "+32",
+        "wiki_url": "/wiki/Belgium"
+    },
+    "bz": {
+        "name": "Belize",
+        "capital": [
+            "Belmopan"
+        ],
+        "currency": [
+            "Belize dollar (BZD)"
+        ],
+        "country_code_iso_3166": "BZ",
+        "internet_tld": ".bz",
+        "calling_code": "+501",
+        "wiki_url": "/wiki/Belize"
+    },
+    "bj": {
+        "name": "Benin",
+        "capital": [
+            "Porto-Novo"
+        ],
+        "currency": [
+            "West African CFA franc (XOF)"
+        ],
+        "country_code_iso_3166": "BJ",
+        "internet_tld": ".bj",
+        "calling_code": "+229",
+        "wiki_url": "/wiki/Benin"
+    },
+    "bt": {
+        "name": "Bhutan",
+        "capital": [
+            "Thimphu"
+        ],
+        "currency": [
+            "Ngultrum (BTN)",
+            "Indian rupee (\u20b9) (INR)"
+        ],
+        "country_code_iso_3166": "BT",
+        "internet_tld": ".bt",
+        "calling_code": "+975",
+        "wiki_url": "/wiki/Bhutan"
+    },
+    "bo": {
+        "name": "Bolivia",
+        "capital": [
+            "La Paz (executive and legislative)",
+            "Sucre (constitutional and judicial)"
+        ],
+        "currency": [
+            "Boliviano (BOB)"
+        ],
+        "country_code_iso_3166": "BO",
+        "internet_tld": ".bo",
+        "calling_code": "+591",
+        "wiki_url": "/wiki/Bolivia"
+    },
+    "ba": {
+        "name": "Bosnia and Herzegovina",
+        "capital": [
+            "Sarajevo"
+        ],
+        "currency": [
+            "Convertible mark (BAM)"
+        ],
+        "country_code_iso_3166": "BA",
+        "internet_tld": ".ba",
+        "calling_code": "+387",
+        "wiki_url": "/wiki/Bosnia_and_Herzegovina"
+    },
+    "bw": {
+        "name": "Botswana",
+        "capital": [
+            "Gaborone"
+        ],
+        "currency": [
+            "Pula (BWP)"
+        ],
+        "country_code_iso_3166": "BW",
+        "internet_tld": ".bw",
+        "calling_code": "+267",
+        "wiki_url": "/wiki/Botswana"
+    },
+    "br": {
+        "name": "Brazil",
+        "capital": [
+            "Bras\u00edlia"
+        ],
+        "currency": [
+            "Real (R$) (BRL)"
+        ],
+        "country_code_iso_3166": "BR",
+        "internet_tld": ".br",
+        "calling_code": "+55",
+        "wiki_url": "/wiki/Brazil"
+    },
+    "bn": {
+        "name": "Brunei",
+        "capital": [
+            "Bandar Seri Begawan"
+        ],
+        "currency": [
+            "Brunei dollar (BND)"
+        ],
+        "country_code_iso_3166": "BN",
+        "internet_tld": ".bn",
+        "calling_code": "+673",
+        "wiki_url": "/wiki/Brunei"
+    },
+    "bg": {
+        "name": "Bulgaria",
+        "capital": [
+            "Sofia"
+        ],
+        "currency": [
+            "Lev (BGN)"
+        ],
+        "country_code_iso_3166": "BG",
+        "internet_tld": ".bg.\u0431\u0433",
+        "calling_code": "+359",
+        "wiki_url": "/wiki/Bulgaria"
+    },
+    "bf": {
+        "name": "Burkina Faso",
+        "capital": [
+            "Ouagadougou"
+        ],
+        "currency": [
+            "West African CFA franc (XOF)"
+        ],
+        "country_code_iso_3166": "BF",
+        "internet_tld": ".bf",
+        "calling_code": "+226",
+        "wiki_url": "/wiki/Burkina_Faso"
+    },
+    "bi": {
+        "name": "Burundi",
+        "capital": [
+            "Gitega (political), Buhumbura (economic)"
+        ],
+        "currency": [
+            "Burundian franc (FBu) (BIF)"
+        ],
+        "country_code_iso_3166": "BI",
+        "internet_tld": ".bi",
+        "calling_code": "+257",
+        "wiki_url": "/wiki/Burundi"
+    },
+    "kh": {
+        "name": "Cambodia",
+        "capital": [
+            "Phnom Penh"
+        ],
+        "currency": [
+            "Riel (\u17db) (KHR; de jure)",
+            "United States dollar ($) (USD; de facto)"
+        ],
+        "country_code_iso_3166": "KH",
+        "internet_tld": ".kh",
+        "calling_code": "+855",
+        "wiki_url": "/wiki/Cambodia"
+    },
+    "cm": {
+        "name": "Cameroon",
+        "capital": [
+            "Yaound\u00e9"
+        ],
+        "currency": [
+            "Central African CFA franc (XAF)"
+        ],
+        "country_code_iso_3166": "CM",
+        "internet_tld": ".cm",
+        "calling_code": "+237",
+        "wiki_url": "/wiki/Cameroon"
+    },
+    "cv": {
+        "name": "Cape Verde",
+        "capital": [
+            "Praia"
+        ],
+        "currency": [
+            "Cape Verdean escudo (CVE)"
+        ],
+        "country_code_iso_3166": "CV",
+        "internet_tld": ".cv",
+        "calling_code": "+238",
+        "wiki_url": "/wiki/Cape_Verde"
+    },
+    "cf": {
+        "name": "Central African Republic",
+        "capital": [
+            "Bangui"
+        ],
+        "currency": [
+            "Central African CFA franc (XAF)",
+            "Bitcoin (BTC)"
+        ],
+        "country_code_iso_3166": "CF",
+        "internet_tld": ".cf",
+        "calling_code": "+236",
+        "wiki_url": "/wiki/Central_African_Republic"
+    },
+    "td": {
+        "name": "Chad",
+        "capital": [
+            "N'Djamena"
+        ],
+        "currency": [
+            "Central African CFA franc (XAF)"
+        ],
+        "country_code_iso_3166": "TD",
+        "internet_tld": ".td",
+        "calling_code": "+235",
+        "wiki_url": "/wiki/Chad"
+    },
+    "cl": {
+        "name": "Chile",
+        "capital": [
+            "Santiagoa"
+        ],
+        "currency": [
+            "Chilean peso (CLP)"
+        ],
+        "country_code_iso_3166": "CL",
+        "internet_tld": ".cl",
+        "calling_code": "+56",
+        "wiki_url": "/wiki/Chile"
+    },
+    "cn": {
+        "name": "China",
+        "capital": [
+            "Beijing"
+        ],
+        "currency": [
+            "Renminbi (\u5143/\u00a5) (CNY)"
+        ],
+        "country_code_iso_3166": "CN",
+        "internet_tld": ".cn.\u4e2d\u56fd.\u4e2d\u570b (Mainland), .hk.\u9999\u6e2f (Hong Kong), .mo.\u6fb3\u95e8.\u6fb3\u9580 (Macau)",
+        "calling_code": "+86 (Mainland), +852 (Hong Kong), +853 (Macau)",
+        "wiki_url": "/wiki/China"
+    },
+    "co": {
+        "name": "Colombia",
+        "capital": [
+            "Bogot\u00e1"
+        ],
+        "currency": [
+            "Colombian peso (COP)"
+        ],
+        "country_code_iso_3166": "CO",
+        "internet_tld": ".co",
+        "calling_code": "+57",
+        "wiki_url": "/wiki/Colombia"
+    },
+    "km": {
+        "name": "Comoros",
+        "capital": [
+            "Moroni"
+        ],
+        "currency": [
+            "Comorian franc (KMF)"
+        ],
+        "country_code_iso_3166": "KM",
+        "internet_tld": ".km",
+        "calling_code": "+269",
+        "wiki_url": "/wiki/Comoros"
+    },
+    "cd": {
+        "name": "Democratic Republic of the Congo",
+        "capital": [
+            "Kinshasa"
+        ],
+        "currency": [
+            "Congolese franc (CDF)"
+        ],
+        "country_code_iso_3166": "CD",
+        "internet_tld": ".cd",
+        "calling_code": "+243",
+        "wiki_url": "/wiki/Democratic_Republic_of_the_Congo"
+    },
+    "cg": {
+        "name": "Republic of the Congo",
+        "capital": [
+            "Brazzaville"
+        ],
+        "currency": [
+            "Central African CFA franc (XAF)"
+        ],
+        "country_code_iso_3166": "CG",
+        "internet_tld": ".cg",
+        "calling_code": "+242",
+        "wiki_url": "/wiki/Republic_of_the_Congo"
+    },
+    "cr": {
+        "name": "Costa Rica",
+        "capital": [
+            "San Jos\u00e9"
+        ],
+        "currency": [
+            "Costa Rican col\u00f3n (CRC)"
+        ],
+        "country_code_iso_3166": "CR",
+        "internet_tld": ".cr.co.cr",
+        "calling_code": "+506",
+        "wiki_url": "/wiki/Costa_Rica"
+    },
+    "hr": {
+        "name": "Croatia",
+        "capital": [
+            "Zagreb"
+        ],
+        "currency": [
+            "Croatian kuna (HRK)"
+        ],
+        "country_code_iso_3166": "HR",
+        "internet_tld": ".hr and .eu",
+        "calling_code": "+385",
+        "wiki_url": "/wiki/Croatia"
+    },
+    "cu": {
+        "name": "Cuba",
+        "capital": [
+            "Havana"
+        ],
+        "currency": [
+            "Cuban peso (CUP)"
+        ],
+        "country_code_iso_3166": "CU",
+        "internet_tld": ".cu",
+        "calling_code": "+53",
+        "wiki_url": "/wiki/Cuba"
+    },
+    "cy": {
+        "name": "Cyprus",
+        "capital": [
+            "Nicosia"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "CY",
+        "internet_tld": ".cy",
+        "calling_code": "+357",
+        "wiki_url": "/wiki/Cyprus"
+    },
+    "cz": {
+        "name": "Czech Republic",
+        "capital": [
+            "Prague"
+        ],
+        "currency": [
+            "Czech koruna (CZK)"
+        ],
+        "country_code_iso_3166": "CZ",
+        "internet_tld": ".cz",
+        "calling_code": "+420",
+        "wiki_url": "/wiki/Czech_Republic"
+    },
+    "dk": {
+        "name": "Denmark",
+        "capital": [
+            "Copenhagen"
+        ],
+        "currency": [
+            "Danish krone (kr.) (DKK)"
+        ],
+        "country_code_iso_3166": "DK",
+        "internet_tld": ".dk",
+        "calling_code": "+45",
+        "wiki_url": "/wiki/Denmark"
+    },
+    "dj": {
+        "name": "Djibouti",
+        "capital": [
+            "Djibouti"
+        ],
+        "currency": [
+            "Djiboutian franc (DJF)"
+        ],
+        "country_code_iso_3166": "DJ",
+        "internet_tld": ".dj",
+        "calling_code": "+253",
+        "wiki_url": "/wiki/Djibouti"
+    },
+    "dm": {
+        "name": "Dominica",
+        "capital": [
+            "Roseau"
+        ],
+        "currency": [
+            "East Caribbean dollar (XCD)"
+        ],
+        "country_code_iso_3166": "DM",
+        "internet_tld": ".dm",
+        "calling_code": "+1-767",
+        "wiki_url": "/wiki/Dominica"
+    },
+    "do": {
+        "name": "Dominican Republic",
+        "capital": [
+            "Santo Domingo"
+        ],
+        "currency": [
+            "Dominican peso (DOP)"
+        ],
+        "country_code_iso_3166": "DO",
+        "internet_tld": ".do[4]",
+        "calling_code": "+1-809, +1-829, +1-849",
+        "wiki_url": "/wiki/Dominican_Republic"
+    },
+    "tl": {
+        "name": "East Timor",
+        "capital": [
+            "Dili"
+        ],
+        "currency": [
+            "United States dollar (USD)"
+        ],
+        "country_code_iso_3166": "TL",
+        "internet_tld": ".tlc",
+        "calling_code": "+670",
+        "wiki_url": "/wiki/East_Timor"
+    },
+    "ec": {
+        "name": "Ecuador",
+        "capital": [
+            "Quito"
+        ],
+        "currency": [
+            "United States dollar (USD)"
+        ],
+        "country_code_iso_3166": "EC",
+        "internet_tld": ".ec",
+        "calling_code": "+593",
+        "wiki_url": "/wiki/Ecuador"
+    },
+    "eg": {
+        "name": "Egypt",
+        "capital": [
+            "Cairo"
+        ],
+        "currency": [
+            "Egyptian pound (LE/E\u00a3/\u00a3E) (EGP)"
+        ],
+        "country_code_iso_3166": "EG",
+        "internet_tld": ".eg\u0645\u0635\u0631.",
+        "calling_code": "+20",
+        "wiki_url": "/wiki/Egypt"
+    },
+    "sv": {
+        "name": "El Salvador",
+        "capital": [
+            "San Salvador"
+        ],
+        "currency": [
+            "United States dollar (USD)",
+            "Bitcoin (BTC)"
+        ],
+        "country_code_iso_3166": "SV",
+        "internet_tld": ".sv",
+        "calling_code": "+503",
+        "wiki_url": "/wiki/El_Salvador"
+    },
+    "gq": {
+        "name": "Equatorial Guinea",
+        "capital": [
+            "Malabo (current)",
+            "Ciudad de la Paz (under construction)"
+        ],
+        "currency": [
+            "Central African CFA franc (XAF)"
+        ],
+        "country_code_iso_3166": "GQ",
+        "internet_tld": ".gq",
+        "calling_code": "+240",
+        "wiki_url": "/wiki/Equatorial_Guinea"
+    },
+    "er": {
+        "name": "Eritrea",
+        "capital": [
+            "Asmara"
+        ],
+        "currency": [
+            "Nakfa (ERN)"
+        ],
+        "country_code_iso_3166": "ER",
+        "internet_tld": ".er",
+        "calling_code": "+291",
+        "wiki_url": "/wiki/Eritrea"
+    },
+    "ee": {
+        "name": "Estonia",
+        "capital": [
+            "Tallinn"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "EE",
+        "internet_tld": ".eeb",
+        "calling_code": "+372",
+        "wiki_url": "/wiki/Estonia"
+    },
+    "sz": {
+        "name": "Eswatini",
+        "capital": [
+            "Mbabane (executive)",
+            "Lobamba (legislative)"
+        ],
+        "currency": [
+            "Lilangeni (SZL)",
+            "South African rand (ZAR)"
+        ],
+        "country_code_iso_3166": "SZ",
+        "internet_tld": ".sz",
+        "calling_code": "+268",
+        "wiki_url": "/wiki/Eswatini"
+    },
+    "et": {
+        "name": "Ethiopia",
+        "capital": [
+            "Addis Ababa"
+        ],
+        "currency": [
+            "Birr (ETB)"
+        ],
+        "country_code_iso_3166": "ET",
+        "internet_tld": ".et",
+        "calling_code": "+251",
+        "wiki_url": "/wiki/Ethiopia"
+    },
+    "fj": {
+        "name": "Fiji",
+        "capital": [
+            "Suva"
+        ],
+        "currency": [
+            "Fijian dollar (FJD)"
+        ],
+        "country_code_iso_3166": "FJ",
+        "internet_tld": ".fj",
+        "calling_code": "+679",
+        "wiki_url": "/wiki/Fiji"
+    },
+    "fi": {
+        "name": "Finland",
+        "capital": [
+            "Helsinki"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "FI",
+        "internet_tld": ".fi, .axa",
+        "calling_code": "+358",
+        "wiki_url": "/wiki/Finland"
+    },
+    "fr": {
+        "name": "France",
+        "capital": [
+            "Paris"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "FR",
+        "internet_tld": ".fr",
+        "calling_code": "+33",
+        "wiki_url": "/wiki/France"
+    },
+    "ga": {
+        "name": "Gabon",
+        "capital": [
+            "Libreville"
+        ],
+        "currency": [
+            "Central African CFA franc (XAF)"
+        ],
+        "country_code_iso_3166": "GA",
+        "internet_tld": ".ga",
+        "calling_code": "+241",
+        "wiki_url": "/wiki/Gabon"
+    },
+    "gm": {
+        "name": "The Gambia",
+        "capital": [
+            "Banjul"
+        ],
+        "currency": [
+            "Dalasi (GMD)"
+        ],
+        "country_code_iso_3166": "GM",
+        "internet_tld": ".gm",
+        "calling_code": "+220",
+        "wiki_url": "/wiki/The_Gambia"
+    },
+    "ge": {
+        "name": "Georgia (country)",
+        "capital": [
+            "Tbilisi"
+        ],
+        "currency": [
+            "Georgian lari (\u20be) (GEL)"
+        ],
+        "country_code_iso_3166": "GE",
+        "internet_tld": ".ge, .\u10d2\u10d4",
+        "calling_code": "+995",
+        "wiki_url": "/wiki/Georgia_(country)"
+    },
+    "de": {
+        "name": "Germany",
+        "capital": [
+            "Berlin"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "DE",
+        "internet_tld": ".de",
+        "calling_code": "+49",
+        "wiki_url": "/wiki/Germany"
+    },
+    "gh": {
+        "name": "Ghana",
+        "capital": [
+            "Accra"
+        ],
+        "currency": [
+            "Cedi (GHS)"
+        ],
+        "country_code_iso_3166": "GH",
+        "internet_tld": ".gh",
+        "calling_code": "+233",
+        "wiki_url": "/wiki/Ghana"
+    },
+    "gr": {
+        "name": "Greece",
+        "capital": [
+            "Athens"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "GR",
+        "internet_tld": ".grc.\u03b5\u03bb",
+        "calling_code": "+30",
+        "wiki_url": "/wiki/Greece"
+    },
+    "gd": {
+        "name": "Grenada",
+        "capital": [
+            "St. George's"
+        ],
+        "currency": [
+            "East Caribbean dollar (XCD)"
+        ],
+        "country_code_iso_3166": "GD",
+        "internet_tld": ".gd",
+        "calling_code": "+1-473",
+        "wiki_url": "/wiki/Grenada"
+    },
+    "gt": {
+        "name": "Guatemala",
+        "capital": [
+            "Guatemala City"
+        ],
+        "currency": [
+            "Quetzal (GTQ)"
+        ],
+        "country_code_iso_3166": "GT",
+        "internet_tld": ".gt",
+        "calling_code": "+502",
+        "wiki_url": "/wiki/Guatemala"
+    },
+    "gn": {
+        "name": "Guinea",
+        "capital": [
+            "Conakry"
+        ],
+        "currency": [
+            "Guinean franc (GNF)"
+        ],
+        "country_code_iso_3166": "GN",
+        "internet_tld": ".gn",
+        "calling_code": "+224",
+        "wiki_url": "/wiki/Guinea"
+    },
+    "gw": {
+        "name": "Guinea-Bissau",
+        "capital": [
+            "Bissau"
+        ],
+        "currency": [
+            "West African CFA franc (XOF)"
+        ],
+        "country_code_iso_3166": "GW",
+        "internet_tld": ".gw",
+        "calling_code": "+245",
+        "wiki_url": "/wiki/Guinea-Bissau"
+    },
+    "gy": {
+        "name": "Guyana",
+        "capital": [
+            "Georgetown"
+        ],
+        "currency": [
+            "Guyanese dollar (GYD)"
+        ],
+        "country_code_iso_3166": "GY",
+        "internet_tld": ".gy",
+        "calling_code": "+592",
+        "wiki_url": "/wiki/Guyana"
+    },
+    "hn": {
+        "name": "Honduras",
+        "capital": [
+            "Tegucigalpa"
+        ],
+        "currency": [
+            "Lempira (HNL)"
+        ],
+        "country_code_iso_3166": "HN",
+        "internet_tld": ".hn",
+        "calling_code": "+504",
+        "wiki_url": "/wiki/Honduras"
+    },
+    "hu": {
+        "name": "Hungary",
+        "capital": [
+            "Budapest"
+        ],
+        "currency": [
+            "Forint (HUF)"
+        ],
+        "country_code_iso_3166": "HU",
+        "internet_tld": ".hu",
+        "calling_code": "+36",
+        "wiki_url": "/wiki/Hungary"
+    },
+    "is": {
+        "name": "Iceland",
+        "capital": [
+            "Reykjav\u00edk"
+        ],
+        "currency": [
+            "Icelandic kr\u00f3na (ISK)"
+        ],
+        "country_code_iso_3166": "IS",
+        "internet_tld": ".is",
+        "calling_code": "+354",
+        "wiki_url": "/wiki/Iceland"
+    },
+    "in": {
+        "name": "India",
+        "capital": [
+            "New Delhi"
+        ],
+        "currency": [
+            "Indian rupee (\u20b9) (INR)"
+        ],
+        "country_code_iso_3166": "IN",
+        "internet_tld": ".in",
+        "calling_code": "+91",
+        "wiki_url": "/wiki/India"
+    },
+    "id": {
+        "name": "Indonesia",
+        "capital": [
+            "Jakarta (current)",
+            "Nusantara (under construction)"
+        ],
+        "currency": [
+            "Indonesian rupiah (Rp) (IDR)"
+        ],
+        "country_code_iso_3166": "ID",
+        "internet_tld": ".id",
+        "calling_code": "+62",
+        "wiki_url": "/wiki/Indonesia"
+    },
+    "ir": {
+        "name": "Iran",
+        "capital": [
+            "Tehran"
+        ],
+        "currency": [
+            "Iranian rial (\u0631\u06cc\u0627\u0644) (IRR)"
+        ],
+        "country_code_iso_3166": "IR",
+        "internet_tld": ".ir\u0627\u06cc\u0631\u0627\u0646.",
+        "calling_code": "+98",
+        "wiki_url": "/wiki/Iran"
+    },
+    "iq": {
+        "name": "Iraq",
+        "capital": [
+            "Baghdad"
+        ],
+        "currency": [
+            "Iraqi dinar (IQD)"
+        ],
+        "country_code_iso_3166": "IQ",
+        "internet_tld": ".iq",
+        "calling_code": "+964",
+        "wiki_url": "/wiki/Iraq"
+    },
+    "ie": {
+        "name": "Republic of Ireland",
+        "capital": [
+            "Dublin"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "IE",
+        "internet_tld": ".ie",
+        "calling_code": "+353",
+        "wiki_url": "/wiki/Republic_of_Ireland"
+    },
+    "il": {
+        "name": "Israel",
+        "capital": [
+            "Jerusalem (limited recognition)"
+        ],
+        "currency": [
+            "New shekel (\u20aa) (ILS)"
+        ],
+        "country_code_iso_3166": "IL",
+        "internet_tld": ".il",
+        "calling_code": "+972",
+        "wiki_url": "/wiki/Israel"
+    },
+    "it": {
+        "name": "Italy",
+        "capital": [
+            "Rome"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "IT",
+        "internet_tld": ".itd",
+        "calling_code": "+39c",
+        "wiki_url": "/wiki/Italy"
+    },
+    "ci": {
+        "name": "Ivory Coast",
+        "capital": [
+            "Yamoussoukro (political)",
+            "Abidjan (economic)"
+        ],
+        "currency": [
+            "West African CFA franc (XOF)"
+        ],
+        "country_code_iso_3166": "CI",
+        "internet_tld": ".ci",
+        "calling_code": "+225",
+        "wiki_url": "/wiki/Ivory_Coast"
+    },
+    "jm": {
+        "name": "Jamaica",
+        "capital": [
+            "Kingston"
+        ],
+        "currency": [
+            "Jamaican dollar (JMD)"
+        ],
+        "country_code_iso_3166": "JM",
+        "internet_tld": ".jm",
+        "calling_code": "+1-876+1-658 (Overlay of 876)",
+        "wiki_url": "/wiki/Jamaica"
+    },
+    "jp": {
+        "name": "Japan",
+        "capital": [
+            "Tokyo"
+        ],
+        "currency": [
+            "Japanese yen (\u00a5)"
+        ],
+        "country_code_iso_3166": "JP",
+        "internet_tld": ".jp",
+        "calling_code": "+81",
+        "wiki_url": "/wiki/Japan"
+    },
+    "jo": {
+        "name": "Jordan",
+        "capital": [
+            "Amman"
+        ],
+        "currency": [
+            "Jordanian dinar (JOD)"
+        ],
+        "country_code_iso_3166": "JO",
+        "internet_tld": ".jo.\u0627\u0644\u0627\u0631\u062f\u0646",
+        "calling_code": "+962",
+        "wiki_url": "/wiki/Jordan"
+    },
+    "kz": {
+        "name": "Kazakhstan",
+        "capital": [
+            "Astana"
+        ],
+        "currency": [
+            "Tenge (\u20b8) (KZT)"
+        ],
+        "country_code_iso_3166": "KZ",
+        "internet_tld": ".kz.\u049b\u0430\u0437",
+        "calling_code": "+7-6xx, +7-7xx",
+        "wiki_url": "/wiki/Kazakhstan"
+    },
+    "ke": {
+        "name": "Kenya",
+        "capital": [
+            "Nairobi"
+        ],
+        "currency": [
+            "Kenyan shilling (KES)"
+        ],
+        "country_code_iso_3166": "KE",
+        "internet_tld": ".ke",
+        "calling_code": "+254",
+        "wiki_url": "/wiki/Kenya"
+    },
+    "ki": {
+        "name": "Kiribati",
+        "capital": [
+            "South Tarawa on Tarawa"
+        ],
+        "currency": [
+            "Australian dollar (AUD)"
+        ],
+        "country_code_iso_3166": "KI",
+        "internet_tld": ".ki",
+        "calling_code": "+686",
+        "wiki_url": "/wiki/Kiribati"
+    },
+    "kp": {
+        "name": "North Korea",
+        "capital": [
+            "Pyongyang"
+        ],
+        "currency": [
+            "Korean People's won (\u20a9) (KPW)"
+        ],
+        "country_code_iso_3166": "KP",
+        "internet_tld": ".kp",
+        "calling_code": "+850",
+        "wiki_url": "/wiki/North_Korea"
+    },
+    "kr": {
+        "name": "South Korea",
+        "capital": [
+            "Seoul"
+        ],
+        "currency": [
+            "Korean Republic won (\u20a9) (KRW)"
+        ],
+        "country_code_iso_3166": "KR",
+        "internet_tld": ".kr.\ud55c\uad6d",
+        "calling_code": "+82",
+        "wiki_url": "/wiki/South_Korea"
+    },
+    "kw": {
+        "name": "Kuwait",
+        "capital": [
+            "Kuwait City"
+        ],
+        "currency": [
+            "Kuwaiti dinar"
+        ],
+        "country_code_iso_3166": "KW",
+        "internet_tld": ".kw",
+        "calling_code": "+965",
+        "wiki_url": "/wiki/Kuwait"
+    },
+    "kg": {
+        "name": "Kyrgyzstan",
+        "capital": [
+            "Bishkek"
+        ],
+        "currency": [
+            "Kyrgyzstani som (KGS)"
+        ],
+        "country_code_iso_3166": "KG",
+        "internet_tld": ".kg",
+        "calling_code": "+996",
+        "wiki_url": "/wiki/Kyrgyzstan"
+    },
+    "la": {
+        "name": "Laos",
+        "capital": [
+            "Vientiane"
+        ],
+        "currency": [
+            "Kip (\u20ad) (LAK)"
+        ],
+        "country_code_iso_3166": "LA",
+        "internet_tld": ".la",
+        "calling_code": "+856",
+        "wiki_url": "/wiki/Laos"
+    },
+    "lv": {
+        "name": "Latvia",
+        "capital": [
+            "Riga"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "LV",
+        "internet_tld": ".lvc",
+        "calling_code": "+371",
+        "wiki_url": "/wiki/Latvia"
+    },
+    "lb": {
+        "name": "Lebanon",
+        "capital": [
+            "Beirut"
+        ],
+        "currency": [
+            "Lebanese pound (LBP)"
+        ],
+        "country_code_iso_3166": "LB",
+        "internet_tld": ".lb",
+        "calling_code": "+961",
+        "wiki_url": "/wiki/Lebanon"
+    },
+    "ls": {
+        "name": "Lesotho",
+        "capital": [
+            "Maseru"
+        ],
+        "currency": [
+            "Lesotho Loti (LSL)",
+            "South African rand (ZAR)"
+        ],
+        "country_code_iso_3166": "LS",
+        "internet_tld": ".ls",
+        "calling_code": "+266",
+        "wiki_url": "/wiki/Lesotho"
+    },
+    "lr": {
+        "name": "Liberia",
+        "capital": [
+            "Monrovia"
+        ],
+        "currency": [
+            "Liberian dollar (LRD)"
+        ],
+        "country_code_iso_3166": "LR",
+        "internet_tld": ".lr",
+        "calling_code": "+231",
+        "wiki_url": "/wiki/Liberia"
+    },
+    "ly": {
+        "name": "Libya",
+        "capital": [
+            "Tripoli["
+        ],
+        "currency": [
+            "Libyan dinar (LYD)"
+        ],
+        "country_code_iso_3166": "LY",
+        "internet_tld": ".ly\u0644\u064a\u0628\u064a\u0627.",
+        "calling_code": "+218",
+        "wiki_url": "/wiki/Libya"
+    },
+    "li": {
+        "name": "Liechtenstein",
+        "capital": [
+            "Vaduz"
+        ],
+        "currency": [
+            "Swiss franc (CHF)"
+        ],
+        "country_code_iso_3166": "LI",
+        "internet_tld": ".li",
+        "calling_code": "+423",
+        "wiki_url": "/wiki/Liechtenstein"
+    },
+    "lt": {
+        "name": "Lithuania",
+        "capital": [
+            "Vilnius"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "LT",
+        "internet_tld": ".lta",
+        "calling_code": "+370",
+        "wiki_url": "/wiki/Lithuania"
+    },
+    "lu": {
+        "name": "Luxembourg",
+        "capital": [
+            "Luxembourg"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "LU",
+        "internet_tld": ".lub",
+        "calling_code": "+352",
+        "wiki_url": "/wiki/Luxembourg"
+    },
+    "mg": {
+        "name": "Madagascar",
+        "capital": [
+            "Antananarivo"
+        ],
+        "currency": [
+            "Ariary (MGA)"
+        ],
+        "country_code_iso_3166": "MG",
+        "internet_tld": ".mg",
+        "calling_code": "+261",
+        "wiki_url": "/wiki/Madagascar"
+    },
+    "mw": {
+        "name": "Malawi",
+        "capital": [
+            "Lilongwe"
+        ],
+        "currency": [
+            "Malawian kwacha (D) (MWK)"
+        ],
+        "country_code_iso_3166": "MW",
+        "internet_tld": ".mw",
+        "calling_code": "+265",
+        "wiki_url": "/wiki/Malawi"
+    },
+    "my": {
+        "name": "Malaysia",
+        "capital": [
+            "Putrajaya (administrative)",
+            "Kuala Lumpur (ceremonial, legislative and judicial)"
+        ],
+        "currency": [
+            "Ringgit (RM) (MYR)"
+        ],
+        "country_code_iso_3166": "MY",
+        "internet_tld": ".my",
+        "calling_code": "+60",
+        "wiki_url": "/wiki/Malaysia"
+    },
+    "mv": {
+        "name": "Maldives",
+        "capital": [
+            "Mal\u00e9"
+        ],
+        "currency": [
+            "Maldivian rufiyaa (MVR)",
+            "United States dollar (USD, used in Maldivian resort islands)"
+        ],
+        "country_code_iso_3166": "MV",
+        "internet_tld": ".mv",
+        "calling_code": "+960",
+        "wiki_url": "/wiki/Maldives"
+    },
+    "ml": {
+        "name": "Mali",
+        "capital": [
+            "Bamako"
+        ],
+        "currency": [
+            "West African CFA franc (XOF)"
+        ],
+        "country_code_iso_3166": "ML",
+        "internet_tld": ".ml",
+        "calling_code": "+223",
+        "wiki_url": "/wiki/Mali"
+    },
+    "mt": {
+        "name": "Malta",
+        "capital": [
+            "Valletta"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "MT",
+        "internet_tld": ".mt",
+        "calling_code": "+356",
+        "wiki_url": "/wiki/Malta"
+    },
+    "mh": {
+        "name": "Marshall Islands",
+        "capital": [
+            "Delap-Uliga-Djarrit on Majuro"
+        ],
+        "currency": [
+            "United States dollar (USD)"
+        ],
+        "country_code_iso_3166": "MH",
+        "internet_tld": ".mh",
+        "calling_code": "+692",
+        "wiki_url": "/wiki/Marshall_Islands"
+    },
+    "mr": {
+        "name": "Mauritania",
+        "capital": [
+            "Nouakchott"
+        ],
+        "currency": [
+            "Ouguiya (MRU)"
+        ],
+        "country_code_iso_3166": "MR",
+        "internet_tld": ".mr",
+        "calling_code": "+222",
+        "wiki_url": "/wiki/Mauritania"
+    },
+    "mu": {
+        "name": "Mauritius",
+        "capital": [
+            "Port Louis"
+        ],
+        "currency": [
+            "Mauritian rupee (MUR)"
+        ],
+        "country_code_iso_3166": "MU",
+        "internet_tld": ".mu",
+        "calling_code": "+230",
+        "wiki_url": "/wiki/Mauritius"
+    },
+    "mx": {
+        "name": "Mexico",
+        "capital": [
+            "Mexico City"
+        ],
+        "currency": [
+            "Mexican peso (MXN)"
+        ],
+        "country_code_iso_3166": "MX",
+        "internet_tld": ".mx",
+        "calling_code": "+52",
+        "wiki_url": "/wiki/Mexico"
+    },
+    "fm": {
+        "name": "Federated States of Micronesia",
+        "capital": [
+            "Palikir"
+        ],
+        "currency": [
+            "United States dollar (USD)"
+        ],
+        "country_code_iso_3166": "FM",
+        "internet_tld": ".fm",
+        "calling_code": "+691",
+        "wiki_url": "/wiki/Federated_States_of_Micronesia"
+    },
+    "md": {
+        "name": "Moldova",
+        "capital": [
+            "Chi\u0219in\u0103u"
+        ],
+        "currency": [
+            "Moldovan leu (MDL)"
+        ],
+        "country_code_iso_3166": "MD",
+        "internet_tld": ".md",
+        "calling_code": "+373",
+        "wiki_url": "/wiki/Moldova"
+    },
+    "mc": {
+        "name": "Monaco",
+        "capital": [
+            "Monaco (city-state)"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "MC",
+        "internet_tld": ".mc",
+        "calling_code": "+377",
+        "wiki_url": "/wiki/Monaco"
+    },
+    "mn": {
+        "name": "Mongolia",
+        "capital": [
+            "Ulaanbaatar"
+        ],
+        "currency": [
+            "T\u00f6gr\u00f6g (MNT)"
+        ],
+        "country_code_iso_3166": "MN",
+        "internet_tld": ".mn, .\u043c\u043e\u043d",
+        "calling_code": "+976",
+        "wiki_url": "/wiki/Mongolia"
+    },
+    "me": {
+        "name": "Montenegro",
+        "capital": [
+            "Podgorica"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "ME",
+        "internet_tld": ".me",
+        "calling_code": "+382",
+        "wiki_url": "/wiki/Montenegro"
+    },
+    "ma": {
+        "name": "Morocco",
+        "capital": [
+            "Rabat"
+        ],
+        "currency": [
+            "Moroccan dirham (MAD)"
+        ],
+        "country_code_iso_3166": "MA",
+        "internet_tld": ".ma\u0627\u0644\u0645\u063a\u0631\u0628.",
+        "calling_code": "+212",
+        "wiki_url": "/wiki/Morocco"
+    },
+    "mz": {
+        "name": "Mozambique",
+        "capital": [
+            "Maputo"
+        ],
+        "currency": [
+            "Metical (MZN)"
+        ],
+        "country_code_iso_3166": "MZ",
+        "internet_tld": ".mz",
+        "calling_code": "+258",
+        "wiki_url": "/wiki/Mozambique"
+    },
+    "mm": {
+        "name": "Myanmar",
+        "capital": [
+            "Naypyidaw"
+        ],
+        "currency": [
+            "Kyat (K) (MMK)"
+        ],
+        "country_code_iso_3166": "MM",
+        "internet_tld": ".mm",
+        "calling_code": "+95",
+        "wiki_url": "/wiki/Myanmar"
+    },
+    "na": {
+        "name": "Namibia",
+        "capital": [
+            "Windhoek"
+        ],
+        "currency": [
+            "Namibian dollar  (NAD)",
+            "South African rand (ZAR)"
+        ],
+        "country_code_iso_3166": "NA",
+        "internet_tld": ".na",
+        "calling_code": "+264",
+        "wiki_url": "/wiki/Namibia"
+    },
+    "nr": {
+        "name": "Nauru",
+        "capital": [
+            "None (de jure)",
+            "Yaren (de facto)"
+        ],
+        "currency": [
+            "Australian dollar (AUD)"
+        ],
+        "country_code_iso_3166": "NR",
+        "internet_tld": ".nr",
+        "calling_code": "+674",
+        "wiki_url": "/wiki/Nauru"
+    },
+    "np": {
+        "name": "Nepal",
+        "capital": [
+            "Kathmandu"
+        ],
+        "currency": [
+            "Nepalese rupee (Rs, \u0930\u0942) (NPR)"
+        ],
+        "country_code_iso_3166": "NP",
+        "internet_tld": ".np",
+        "calling_code": "+977",
+        "wiki_url": "/wiki/Nepal"
+    },
+    "nl": {
+        "name": "Kingdom of the Netherlands",
+        "capital": [
+            "Amsterdam"
+        ],
+        "currency": [
+            "Euro (EUR)"
+        ],
+        "country_code_iso_3166": "NL",
+        "internet_tld": ".nl",
+        "calling_code": "+31",
+        "wiki_url": "/wiki/Kingdom_of_the_Netherlands"
+    },
+    "nz": {
+        "name": "New Zealand",
+        "capital": [
+            "Wellington"
+        ],
+        "currency": [
+            "New Zealand dollar ($) (NZD)"
+        ],
+        "country_code_iso_3166": "NZ",
+        "internet_tld": ".nz",
+        "calling_code": "+64",
+        "wiki_url": "/wiki/New_Zealand"
+    },
+    "ni": {
+        "name": "Nicaragua",
+        "capital": [
+            "Managua"
+        ],
+        "currency": [
+            "C\u00f3rdoba (NIO)"
+        ],
+        "country_code_iso_3166": "NI",
+        "internet_tld": ".ni",
+        "calling_code": "+505",
+        "wiki_url": "/wiki/Nicaragua"
+    },
+    "ne": {
+        "name": "Niger",
+        "capital": [
+            "Niamey"
+        ],
+        "currency": [
+            "West African CFA franc (XOF)"
+        ],
+        "country_code_iso_3166": "NE",
+        "internet_tld": ".ne",
+        "calling_code": "+227",
+        "wiki_url": "/wiki/Niger"
+    },
+    "ng": {
+        "name": "Nigeria",
+        "capital": [
+            "Abuja"
+        ],
+        "currency": [
+            "Naira (\u20a6) (NGN)"
+        ],
+        "country_code_iso_3166": "NG",
+        "internet_tld": ".ng",
+        "calling_code": "+234",
+        "wiki_url": "/wiki/Nigeria"
+    },
+    "mk": {
+        "name": "North Macedonia",
+        "capital": [
+            "Skopje"
+        ],
+        "currency": [
+            "North Macedonian denar (MKD)"
+        ],
+        "country_code_iso_3166": "MK",
+        "internet_tld": ".mk.\u043c\u043a\u0434",
+        "calling_code": "+389",
+        "wiki_url": "/wiki/North_Macedonia"
+    },
+    "no": {
+        "name": "Norway",
+        "capital": [
+            "Oslo"
+        ],
+        "currency": [
+            "Norwegian krone (NOK)"
+        ],
+        "country_code_iso_3166": "NO",
+        "internet_tld": ".nod",
+        "calling_code": "+47",
+        "wiki_url": "/wiki/Norway"
+    },
+    "om": {
+        "name": "Oman",
+        "capital": [
+            "Muscat"
+        ],
+        "currency": [
+            "Omani rial (OMR)"
+        ],
+        "country_code_iso_3166": "OM",
+        "internet_tld": ".om, \u0639\u0645\u0627\u0646.",
+        "calling_code": "+968",
+        "wiki_url": "/wiki/Oman"
+    },
+    "pk": {
+        "name": "Pakistan",
+        "capital": [
+            "Islamabad"
+        ],
+        "currency": [
+            "Pakistani rupee (\u20a8) (PKR)"
+        ],
+        "country_code_iso_3166": "PK",
+        "internet_tld": ".pk\u067e\u0627\u06a9\u0633\u062a\u0627\u0646.",
+        "calling_code": "+92",
+        "wiki_url": "/wiki/Pakistan"
+    },
+    "pw": {
+        "name": "Palau",
+        "capital": [
+            "Ngerulmud"
+        ],
+        "currency": [
+            "United States dollar (USD)"
+        ],
+        "country_code_iso_3166": "PW",
+        "internet_tld": ".pw",
+        "calling_code": "+680",
+        "wiki_url": "/wiki/Palau"
+    },
+    "ps": {
+        "name": "State of Palestine",
+        "capital": [
+            "Jerusalem"
+        ],
+        "currency": [
+            "Egyptian pound (EGP)",
+            "Israeli new shekel (ILS)",
+            "Jordanian dinar (JOD)"
+        ],
+        "country_code_iso_3166": "PS",
+        "internet_tld": ".ps",
+        "calling_code": "+970",
+        "wiki_url": "/wiki/State_of_Palestine"
+    },
+    "pa": {
+        "name": "Panama",
+        "capital": [
+            "Panama City"
+        ],
+        "currency": [
+            "Balboa (PAB)",
+            "United States dollar (USD)"
+        ],
+        "country_code_iso_3166": "PA",
+        "internet_tld": ".pa",
+        "calling_code": "+507",
+        "wiki_url": "/wiki/Panama"
+    },
+    "pg": {
+        "name": "Papua New Guinea",
+        "capital": [
+            "Port Moresby"
+        ],
+        "currency": [
+            "Kina (PGK)"
+        ],
+        "country_code_iso_3166": "PG",
+        "internet_tld": ".pg",
+        "calling_code": "+675",
+        "wiki_url": "/wiki/Papua_New_Guinea"
+    },
+    "py": {
+        "name": "Paraguay",
+        "capital": [
+            "Asunci\u00f3n"
+        ],
+        "currency": [
+            "Guaran\u00ed (PYG)"
+        ],
+        "country_code_iso_3166": "PY",
+        "internet_tld": ".py",
+        "calling_code": "+595",
+        "wiki_url": "/wiki/Paraguay"
+    },
+    "pe": {
+        "name": "Peru",
+        "capital": [
+            "Lima"
+        ],
+        "currency": [
+            "Sol (PEN)"
+        ],
+        "country_code_iso_3166": "PE",
+        "internet_tld": ".pe",
+        "calling_code": "+51",
+        "wiki_url": "/wiki/Peru"
+    },
+    "ph": {
+        "name": "Philippines",
+        "capital": [
+            "Manila (de jure)"
+        ],
+        "currency": [
+            "Philippine peso (\u20b1) (PHP)"
+        ],
+        "country_code_iso_3166": "PH",
+        "internet_tld": ".ph",
+        "calling_code": "+63",
+        "wiki_url": "/wiki/Philippines"
+    },
+    "pl": {
+        "name": "Poland",
+        "capital": [
+            "Warsaw"
+        ],
+        "currency": [
+            "Z\u0142oty (PLN)"
+        ],
+        "country_code_iso_3166": "PL",
+        "internet_tld": ".pl",
+        "calling_code": "+48",
+        "wiki_url": "/wiki/Poland"
+    },
+    "pt": {
+        "name": "Portugal",
+        "capital": [
+            "Lisbon"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "PT",
+        "internet_tld": ".pt",
+        "calling_code": "+351",
+        "wiki_url": "/wiki/Portugal"
+    },
+    "qa": {
+        "name": "Qatar",
+        "capital": [
+            "Doha"
+        ],
+        "currency": [
+            "Qatari riyal (QAR)"
+        ],
+        "country_code_iso_3166": "QA",
+        "internet_tld": ".qa\u0642\u0637\u0631.",
+        "calling_code": "+974",
+        "wiki_url": "/wiki/Qatar"
+    },
+    "ro": {
+        "name": "Romania",
+        "capital": [
+            "Bucharest"
+        ],
+        "currency": [
+            "Romanian leu (RON)"
+        ],
+        "country_code_iso_3166": "RO",
+        "internet_tld": ".roa",
+        "calling_code": "+40",
+        "wiki_url": "/wiki/Romania"
+    },
+    "ru": {
+        "name": "Russia",
+        "capital": [
+            "Moscow"
+        ],
+        "currency": [
+            "Russian ruble (\u20bd) (RUB)"
+        ],
+        "country_code_iso_3166": "RU",
+        "internet_tld": ".ru.\u0440\u0444",
+        "calling_code": "+7",
+        "wiki_url": "/wiki/Russia"
+    },
+    "rw": {
+        "name": "Rwanda",
+        "capital": [
+            "Kigali"
+        ],
+        "currency": [
+            "Rwandan franc (RWF)"
+        ],
+        "country_code_iso_3166": "RW",
+        "internet_tld": ".rw",
+        "calling_code": "+250",
+        "wiki_url": "/wiki/Rwanda"
+    },
+    "kn": {
+        "name": "Saint Kitts and Nevis",
+        "capital": [
+            "Basseterre"
+        ],
+        "currency": [
+            "East Caribbean dollar (EC$) (XCD)"
+        ],
+        "country_code_iso_3166": "KN",
+        "internet_tld": ".kn",
+        "calling_code": "+1 869",
+        "wiki_url": "/wiki/Saint_Kitts_and_Nevis"
+    },
+    "lc": {
+        "name": "Saint Lucia",
+        "capital": [
+            "Castries"
+        ],
+        "currency": [
+            "East Caribbean dollar (XCD)"
+        ],
+        "country_code_iso_3166": "LC",
+        "internet_tld": ".lc",
+        "calling_code": "+1 758",
+        "wiki_url": "/wiki/Saint_Lucia"
+    },
+    "vc": {
+        "name": "Saint Vincent and the Grenadines",
+        "capital": [
+            "Kingstown"
+        ],
+        "currency": [
+            "East Caribbean dollar (XCD)"
+        ],
+        "country_code_iso_3166": "VC",
+        "internet_tld": ".vc",
+        "calling_code": "+1 784",
+        "wiki_url": "/wiki/Saint_Vincent_and_the_Grenadines"
+    },
+    "ws": {
+        "name": "Samoa",
+        "capital": [
+            "Apia"
+        ],
+        "currency": [
+            "T\u0101l\u0101 (WS$b) (WST)"
+        ],
+        "country_code_iso_3166": "WS",
+        "internet_tld": ".ws",
+        "calling_code": "+685",
+        "wiki_url": "/wiki/Samoa"
+    },
+    "sm": {
+        "name": "San Marino",
+        "capital": [
+            "San Marino"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "SM",
+        "internet_tld": ".sm",
+        "calling_code": "+378 (+39 0549 calling via Italy)",
+        "wiki_url": "/wiki/San_Marino"
+    },
+    "st": {
+        "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "capital": [
+            "S\u00e3o Tom\u00e9"
+        ],
+        "currency": [
+            "Dobra (STN)"
+        ],
+        "country_code_iso_3166": "ST",
+        "internet_tld": ".st",
+        "calling_code": "+239",
+        "wiki_url": "/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
+    },
+    "sa": {
+        "name": "Saudi Arabia",
+        "capital": [
+            "Riyadh"
+        ],
+        "currency": [
+            "Saudi riyal (SR) (SAR)"
+        ],
+        "country_code_iso_3166": "SA",
+        "internet_tld": ".sa\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629.",
+        "calling_code": "+966",
+        "wiki_url": "/wiki/Saudi_Arabia"
+    },
+    "sn": {
+        "name": "Senegal",
+        "capital": [
+            "Dakar"
+        ],
+        "currency": [
+            "West African CFA franc (XOF)"
+        ],
+        "country_code_iso_3166": "SN",
+        "internet_tld": ".sn",
+        "calling_code": "+221",
+        "wiki_url": "/wiki/Senegal"
+    },
+    "rs": {
+        "name": "Serbia",
+        "capital": [
+            "Belgrade"
+        ],
+        "currency": [
+            "Serbian dinar (RSD)"
+        ],
+        "country_code_iso_3166": "RS",
+        "internet_tld": ".rs.\u0441\u0440\u0431",
+        "calling_code": "+381",
+        "wiki_url": "/wiki/Serbia"
+    },
+    "sc": {
+        "name": "Seychelles",
+        "capital": [
+            "Victoria"
+        ],
+        "currency": [
+            "Seychellois rupee (SCR)"
+        ],
+        "country_code_iso_3166": "SC",
+        "internet_tld": ".sc",
+        "calling_code": "+248",
+        "wiki_url": "/wiki/Seychelles"
+    },
+    "sl": {
+        "name": "Sierra Leone",
+        "capital": [
+            "Freetown"
+        ],
+        "currency": [
+            "Leone (SLL)"
+        ],
+        "country_code_iso_3166": "SL",
+        "internet_tld": ".sl",
+        "calling_code": "+232",
+        "wiki_url": "/wiki/Sierra_Leone"
+    },
+    "sg": {
+        "name": "Singapore",
+        "capital": null,
+        "currency": [
+            "Singapore dollar (S$) (SGD)"
+        ],
+        "country_code_iso_3166": "SG",
+        "internet_tld": ".sg",
+        "calling_code": "+65",
+        "wiki_url": "/wiki/Singapore"
+    },
+    "sk": {
+        "name": "Slovakia",
+        "capital": [
+            "Bratislava"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "SK",
+        "internet_tld": ".sk and .eu",
+        "calling_code": "+421",
+        "wiki_url": "/wiki/Slovakia"
+    },
+    "si": {
+        "name": "Slovenia",
+        "capital": [
+            "Ljubljana"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "SI",
+        "internet_tld": ".si[ii]",
+        "calling_code": "+386",
+        "wiki_url": "/wiki/Slovenia"
+    },
+    "sb": {
+        "name": "Solomon Islands",
+        "capital": [
+            "Honiara"
+        ],
+        "currency": [
+            "Solomon Islands dollar (SBD)"
+        ],
+        "country_code_iso_3166": "SB",
+        "internet_tld": ".sb",
+        "calling_code": "+677",
+        "wiki_url": "/wiki/Solomon_Islands"
+    },
+    "so": {
+        "name": "Somalia",
+        "capital": [
+            "Mogadishu"
+        ],
+        "currency": [
+            "Somali shilling (SOS)"
+        ],
+        "country_code_iso_3166": "SO",
+        "internet_tld": ".so",
+        "calling_code": "+252",
+        "wiki_url": "/wiki/Somalia"
+    },
+    "za": {
+        "name": "South Africa",
+        "capital": [
+            "Pretoria (executive)",
+            "Cape Town (legislative)",
+            "Bloemfontein (judicial)"
+        ],
+        "currency": [
+            "South African rand (ZAR)"
+        ],
+        "country_code_iso_3166": "ZA",
+        "internet_tld": ".za",
+        "calling_code": "+27",
+        "wiki_url": "/wiki/South_Africa"
+    },
+    "ss": {
+        "name": "South Sudan",
+        "capital": [
+            "Juba"
+        ],
+        "currency": [
+            "South Sudanese pound (SSP)"
+        ],
+        "country_code_iso_3166": "SS",
+        "internet_tld": ".ss",
+        "calling_code": "+211",
+        "wiki_url": "/wiki/South_Sudan"
+    },
+    "es": {
+        "name": "Spain",
+        "capital": [
+            "Madrid"
+        ],
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "ES",
+        "internet_tld": ".es",
+        "calling_code": "+34",
+        "wiki_url": "/wiki/Spain"
+    },
+    "lk": {
+        "name": "Sri Lanka",
+        "capital": [
+            "Sri Jayawardenepura Kotte (legislative)",
+            "Colombo (executive and judicial)"
+        ],
+        "currency": [
+            "Sri Lankan rupee (Rs) (LKR)"
+        ],
+        "country_code_iso_3166": "LK",
+        "internet_tld": ".lk.\u0dbd\u0d82\u0d9a\u0dcf.\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+        "calling_code": "+94",
+        "wiki_url": "/wiki/Sri_Lanka"
+    },
+    "sd": {
+        "name": "Sudan",
+        "capital": [
+            "Khartoum"
+        ],
+        "currency": [
+            "Sudanese pound (SDG)"
+        ],
+        "country_code_iso_3166": "SD",
+        "internet_tld": ".sd\u0633\u0648\u062f\u0627\u0646.",
+        "calling_code": "+249",
+        "wiki_url": "/wiki/Sudan"
+    },
+    "sr": {
+        "name": "Suriname",
+        "capital": [
+            "Paramaribo"
+        ],
+        "currency": [
+            "Surinamese dollar (SRD)"
+        ],
+        "country_code_iso_3166": "SR",
+        "internet_tld": ".sr",
+        "calling_code": "+597",
+        "wiki_url": "/wiki/Suriname"
+    },
+    "se": {
+        "name": "Sweden",
+        "capital": [
+            "Stockholm"
+        ],
+        "currency": [
+            "Swedish krona (SEK)"
+        ],
+        "country_code_iso_3166": "SE",
+        "internet_tld": ".se",
+        "calling_code": "+46",
+        "wiki_url": "/wiki/Sweden"
+    },
+    "ch": {
+        "name": "Switzerland",
+        "capital": [
+            "None (de jure)",
+            "Bern (de facto)"
+        ],
+        "currency": [
+            "Swiss franc (CHF)"
+        ],
+        "country_code_iso_3166": "CH",
+        "internet_tld": ".ch, .swiss",
+        "calling_code": "+41",
+        "wiki_url": "/wiki/Switzerland"
+    },
+    "sy": {
+        "name": "Syria",
+        "capital": [
+            "Damascus"
+        ],
+        "currency": [
+            "Syrian pound (SYP)"
+        ],
+        "country_code_iso_3166": "SY",
+        "internet_tld": ".sy\u0633\u0648\u0631\u064a\u0627.",
+        "calling_code": "+963",
+        "wiki_url": "/wiki/Syria"
+    },
+    "tj": {
+        "name": "Tajikistan",
+        "capital": [
+            "Dushanbe"
+        ],
+        "currency": [
+            "Somoni (TJS)"
+        ],
+        "country_code_iso_3166": "TJ",
+        "internet_tld": ".tj",
+        "calling_code": "+992",
+        "wiki_url": "/wiki/Tajikistan"
+    },
+    "tz": {
+        "name": "Tanzania",
+        "capital": [
+            "Dodoma"
+        ],
+        "currency": [
+            "Tanzanian shilling (TZS)"
+        ],
+        "country_code_iso_3166": "TZ",
+        "internet_tld": ".tz",
+        "calling_code": "+255[a]",
+        "wiki_url": "/wiki/Tanzania"
+    },
+    "th": {
+        "name": "Thailand",
+        "capital": [
+            "Bangkok"
+        ],
+        "currency": [
+            "Baht (\u0e3f) (THB)"
+        ],
+        "country_code_iso_3166": "TH",
+        "internet_tld": ".th.\u0e44\u0e17\u0e22",
+        "calling_code": "+66",
+        "wiki_url": "/wiki/Thailand"
+    },
+    "tg": {
+        "name": "Togo",
+        "capital": [
+            "Lom\u00e9"
+        ],
+        "currency": [
+            "West African CFA franc (XOF)"
+        ],
+        "country_code_iso_3166": "TG",
+        "internet_tld": ".tg",
+        "calling_code": "+228",
+        "wiki_url": "/wiki/Togo"
+    },
+    "to": {
+        "name": "Tonga",
+        "capital": [
+            "Nuku\u02bbalofa"
+        ],
+        "currency": [
+            "Pa\u02bbanga (TOP)"
+        ],
+        "country_code_iso_3166": "TO",
+        "internet_tld": ".to",
+        "calling_code": "+676",
+        "wiki_url": "/wiki/Tonga"
+    },
+    "tt": {
+        "name": "Trinidad and Tobago",
+        "capital": [
+            "Port of Spain"
+        ],
+        "currency": [
+            "Trinidad and Tobago dollar (TTD)"
+        ],
+        "country_code_iso_3166": "TT",
+        "internet_tld": ".tt",
+        "calling_code": "+1 (868)",
+        "wiki_url": "/wiki/Trinidad_and_Tobago"
+    },
+    "tn": {
+        "name": "Tunisia",
+        "capital": [
+            "Tunis"
+        ],
+        "currency": [
+            "Tunisian dinar (TND)"
+        ],
+        "country_code_iso_3166": "TN",
+        "internet_tld": ".tn.\u062a\u0648\u0646\u0633",
+        "calling_code": "+216",
+        "wiki_url": "/wiki/Tunisia"
+    },
+    "tr": {
+        "name": "Turkey",
+        "capital": [
+            "Ankara"
+        ],
+        "currency": [
+            "Turkish lira (\u20ba) (TRY)"
+        ],
+        "country_code_iso_3166": "TR",
+        "internet_tld": ".tr",
+        "calling_code": "+90",
+        "wiki_url": "/wiki/Turkey"
+    },
+    "tm": {
+        "name": "Turkmenistan",
+        "capital": [
+            "Ashgabat"
+        ],
+        "currency": [
+            "Manat (TMT)"
+        ],
+        "country_code_iso_3166": "TM",
+        "internet_tld": ".tm",
+        "calling_code": "+993",
+        "wiki_url": "/wiki/Turkmenistan"
+    },
+    "tv": {
+        "name": "Tuvalu",
+        "capital": [
+            "Funafuti"
+        ],
+        "currency": [
+            "Tuvaluan dollar",
+            "Australian dollar (AUD)"
+        ],
+        "country_code_iso_3166": "TV",
+        "internet_tld": ".tv",
+        "calling_code": "+688",
+        "wiki_url": "/wiki/Tuvalu"
+    },
+    "ug": {
+        "name": "Uganda",
+        "capital": [
+            "Kampala"
+        ],
+        "currency": [
+            "Ugandan shilling (UGX)"
+        ],
+        "country_code_iso_3166": "UG",
+        "internet_tld": ".ug",
+        "calling_code": "+256",
+        "wiki_url": "/wiki/Uganda"
+    },
+    "ua": {
+        "name": "Ukraine",
+        "capital": [
+            "Kyiv"
+        ],
+        "currency": [
+            "Hryvnia (\u20b4) (UAH)"
+        ],
+        "country_code_iso_3166": "UA",
+        "internet_tld": ".ua.\u0443\u043a\u0440",
+        "calling_code": "+380",
+        "wiki_url": "/wiki/Ukraine"
+    },
+    "ae": {
+        "name": "United Arab Emirates",
+        "capital": [
+            "Abu Dhabi"
+        ],
+        "currency": [
+            "UAE dirham (AED)"
+        ],
+        "country_code_iso_3166": "AE",
+        "internet_tld": ".ae\u0627\u0645\u0627\u0631\u0627\u062a.",
+        "calling_code": "+971",
+        "wiki_url": "/wiki/United_Arab_Emirates"
+    },
+    "gb": {
+        "name": "United Kingdom",
+        "capital": [
+            "London"
+        ],
+        "currency": [
+            "Pound\u00a0sterling (GBP)"
+        ],
+        "country_code_iso_3166": "GB",
+        "internet_tld": ".uk",
+        "calling_code": "+44",
+        "wiki_url": "/wiki/United_Kingdom"
+    },
+    "us": {
+        "name": "United States",
+        "capital": [
+            "Washington, D.C."
+        ],
+        "currency": [
+            "U.S. dollar ($) (USD)"
+        ],
+        "country_code_iso_3166": "US",
+        "internet_tld": null,
+        "calling_code": "+1",
+        "wiki_url": "/wiki/United_States"
+    },
+    "uy": {
+        "name": "Uruguay",
+        "capital": [
+            "Montevideo"
+        ],
+        "currency": [
+            "Uruguayan peso (UYU)"
+        ],
+        "country_code_iso_3166": "UY",
+        "internet_tld": ".uy",
+        "calling_code": "+598",
+        "wiki_url": "/wiki/Uruguay"
+    },
+    "uz": {
+        "name": "Uzbekistan",
+        "capital": [
+            "Tashkent"
+        ],
+        "currency": [
+            "Uzbek soum (UZS)"
+        ],
+        "country_code_iso_3166": "UZ",
+        "internet_tld": ".uz",
+        "calling_code": "+998",
+        "wiki_url": "/wiki/Uzbekistan"
+    },
+    "vu": {
+        "name": "Vanuatu",
+        "capital": [
+            "Port Vila"
+        ],
+        "currency": [
+            "Vatu (VUV)"
+        ],
+        "country_code_iso_3166": "VU",
+        "internet_tld": ".vu",
+        "calling_code": "+678",
+        "wiki_url": "/wiki/Vanuatu"
+    },
+    "va": {
+        "name": "Vatican City",
+        "capital": null,
+        "currency": [
+            "Euro (\u20ac) (EUR)"
+        ],
+        "country_code_iso_3166": "VA",
+        "internet_tld": ".va",
+        "calling_code": "+379",
+        "wiki_url": "/wiki/Vatican_City"
+    },
+    "ve": {
+        "name": "Venezuela",
+        "capital": [
+            "Caracas"
+        ],
+        "currency": [
+            "Venezuelan bol\u00edvar (VED)"
+        ],
+        "country_code_iso_3166": "VE",
+        "internet_tld": ".ve",
+        "calling_code": "+58",
+        "wiki_url": "/wiki/Venezuela"
+    },
+    "vn": {
+        "name": "Vietnam",
+        "capital": [
+            "Hanoi"
+        ],
+        "currency": [
+            "\u0111\u1ed3ng (\u20ab) (VND)"
+        ],
+        "country_code_iso_3166": "VN",
+        "internet_tld": ".vn",
+        "calling_code": "+84",
+        "wiki_url": "/wiki/Vietnam"
+    },
+    "ye": {
+        "name": "Yemen",
+        "capital": [
+            "Sanaa"
+        ],
+        "currency": [
+            "Yemeni rial (YER)"
+        ],
+        "country_code_iso_3166": "YE",
+        "internet_tld": ".ye, \u0627\u0644\u064a\u0645\u0646.",
+        "calling_code": "+967",
+        "wiki_url": "/wiki/Yemen"
+    },
+    "zm": {
+        "name": "Zambia",
+        "capital": [
+            "Lusaka"
+        ],
+        "currency": [
+            "Zambian kwacha (ZMW)"
+        ],
+        "country_code_iso_3166": "ZM",
+        "internet_tld": ".zm",
+        "calling_code": "+260",
+        "wiki_url": "/wiki/Zambia"
+    },
+    "zw": {
+        "name": "Zimbabwe",
+        "capital": [
+            "Harare"
+        ],
+        "currency": [
+            "Zimbabwean dollar",
+            "U.S. dollar ($) (USD)"
+        ],
+        "country_code_iso_3166": "ZW",
+        "internet_tld": ".zw",
+        "calling_code": "+263",
+        "wiki_url": "/wiki/Zimbabwe"
+    },
+    "ck": {
+        "name": "Cook Islands",
+        "capital": [
+            "Avarua"
+        ],
+        "currency": [
+            "New Zealand dollar (NZD)",
+            "Cook Islands dollar (formerly)"
+        ],
+        "country_code_iso_3166": "CK",
+        "internet_tld": ".ck",
+        "calling_code": "+682",
+        "wiki_url": "/wiki/Cook_Islands"
+    },
+    "xk": {
+        "name": "Kosovo",
+        "capital": [
+            "Pristinaa"
+        ],
+        "currency": [
+            "Euro (\u20ac)b (EUR)"
+        ],
+        "country_code_iso_3166": "XK",
+        "internet_tld": ".xkc (proposed)",
+        "calling_code": "+383",
+        "wiki_url": "/wiki/Kosovo"
+    },
+    "nu": {
+        "name": "Niue",
+        "capital": [
+            "Alofi"
+        ],
+        "currency": [
+            "New Zealand dollar (NZD)"
+        ],
+        "country_code_iso_3166": "NU",
+        "internet_tld": ".nu",
+        "calling_code": "+683",
+        "wiki_url": "/wiki/Niue"
+    },
+    "eh": {
+        "name": "Sahrawi Arab Democratic Republic",
+        "capital": [
+            "El Aai\u00fana (de jure)",
+            "Tifariti (de facto)"
+        ],
+        "currency": [
+            "de\u00a0facto - Moroccan\u00a0dirham (in claimed areas)",
+            "Algerian dinar",
+            "Mauritanian ouguiya",
+            "de\u00a0jure - Sahrawi peseta"
+        ],
+        "country_code_iso_3166": "EH",
+        "internet_tld": null,
+        "calling_code": null,
+        "wiki_url": "/wiki/Sahrawi_Arab_Democratic_Republic"
+    },
+    "tw": {
+        "name": "Taiwan",
+        "capital": [
+            "Taipei"
+        ],
+        "currency": [
+            "New Taiwan dollar (NT$) (TWD)"
+        ],
+        "country_code_iso_3166": "TW",
+        "internet_tld": ".tw.\u53f0\u7063.\u53f0\u6e7e",
+        "calling_code": "+886",
+        "wiki_url": "/wiki/Taiwan"
+    },
+    "ca": {
+        "name": "Canada",
+        "capital": [
+            "Ottawa"
+        ],
+        "currency": [
+            "Canadian dollar ($) (CAD)"
+        ],
+        "country_code_iso_3166": null,
+        "internet_tld": ".ca",
+        "calling_code": "+1",
+        "wiki_url": "/wiki/Canada"
+    }
+}
