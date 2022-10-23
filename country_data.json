@@ -7,7 +7,9 @@
         "currency": [
             "Afghani (\u0627\u0641\u063a\u0627\u0646\u06cc) (AFN)"
         ],
-        "country_code_iso_3166": "AF",
+        "country_code_iso_3166_alpha_2": "AF",
+        "country_code_iso_3166_alpha_3": "AFG",
+        "country_code_iso_3166_numeric": "004",
         "internet_tld": ".af\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646.",
         "calling_code": "+93",
         "wiki_url": "/wiki/Afghanistan"
@@ -20,7 +22,9 @@
         "currency": [
             "Lek (ALL)"
         ],
-        "country_code_iso_3166": "AL",
+        "country_code_iso_3166_alpha_2": "AL",
+        "country_code_iso_3166_alpha_3": "ALB",
+        "country_code_iso_3166_numeric": "008",
         "internet_tld": ".al",
         "calling_code": "+355",
         "wiki_url": "/wiki/Albania"
@@ -33,7 +37,9 @@
         "currency": [
             "Algerian dinar (DZD)"
         ],
-        "country_code_iso_3166": "DZ",
+        "country_code_iso_3166_alpha_2": "DZ",
+        "country_code_iso_3166_alpha_3": "DZA",
+        "country_code_iso_3166_numeric": "012",
         "internet_tld": ".dz\u0627\u0644\u062c\u0632\u0627\u0626\u0631.",
         "calling_code": "+213",
         "wiki_url": "/wiki/Algeria"
@@ -46,7 +52,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "AD",
+        "country_code_iso_3166_alpha_2": "AD",
+        "country_code_iso_3166_alpha_3": "AND",
+        "country_code_iso_3166_numeric": "020",
         "internet_tld": ".ad",
         "calling_code": "+376",
         "wiki_url": "/wiki/Andorra"
@@ -59,7 +67,9 @@
         "currency": [
             "Kwanza (AOA)"
         ],
-        "country_code_iso_3166": "AO",
+        "country_code_iso_3166_alpha_2": "AO",
+        "country_code_iso_3166_alpha_3": "AGO",
+        "country_code_iso_3166_numeric": "024",
         "internet_tld": ".ao",
         "calling_code": "+244",
         "wiki_url": "/wiki/Angola"
@@ -72,7 +82,9 @@
         "currency": [
             "East Caribbean dollar (XCD)"
         ],
-        "country_code_iso_3166": "AG",
+        "country_code_iso_3166_alpha_2": "AG",
+        "country_code_iso_3166_alpha_3": "ATG",
+        "country_code_iso_3166_numeric": "028",
         "internet_tld": ".ag",
         "calling_code": "+1-268",
         "wiki_url": "/wiki/Antigua_and_Barbuda"
@@ -85,7 +97,9 @@
         "currency": [
             "Argentine peso ($) (ARS)"
         ],
-        "country_code_iso_3166": "AR",
+        "country_code_iso_3166_alpha_2": "AR",
+        "country_code_iso_3166_alpha_3": "ARG",
+        "country_code_iso_3166_numeric": "032",
         "internet_tld": ".ar",
         "calling_code": "+54",
         "wiki_url": "/wiki/Argentina"
@@ -98,7 +112,9 @@
         "currency": [
             "Dram\u00a0(\u058f) (AMD)"
         ],
-        "country_code_iso_3166": "AM",
+        "country_code_iso_3166_alpha_2": "AM",
+        "country_code_iso_3166_alpha_3": "ARM",
+        "country_code_iso_3166_numeric": "051",
         "internet_tld": ".am.\u0570\u0561\u0575",
         "calling_code": "+374",
         "wiki_url": "/wiki/Armenia"
@@ -111,7 +127,9 @@
         "currency": [
             "Australian dollar ($) (AUD)"
         ],
-        "country_code_iso_3166": "AU",
+        "country_code_iso_3166_alpha_2": "AU",
+        "country_code_iso_3166_alpha_3": "AUS",
+        "country_code_iso_3166_numeric": "036",
         "internet_tld": ".au",
         "calling_code": "+61",
         "wiki_url": "/wiki/Australia"
@@ -124,7 +142,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "AT",
+        "country_code_iso_3166_alpha_2": "AT",
+        "country_code_iso_3166_alpha_3": "AUT",
+        "country_code_iso_3166_numeric": "040",
         "internet_tld": ".at",
         "calling_code": "+43",
         "wiki_url": "/wiki/Austria"
@@ -137,7 +157,9 @@
         "currency": [
             "Manat (\u20bc) (AZN)"
         ],
-        "country_code_iso_3166": "AZ",
+        "country_code_iso_3166_alpha_2": "AZ",
+        "country_code_iso_3166_alpha_3": "AZE",
+        "country_code_iso_3166_numeric": "031",
         "internet_tld": ".az",
         "calling_code": "+994",
         "wiki_url": "/wiki/Azerbaijan"
@@ -151,7 +173,9 @@
             "Bahamian dollar (BSD)",
             "United States dollar (USD)"
         ],
-        "country_code_iso_3166": "BS",
+        "country_code_iso_3166_alpha_2": "BS",
+        "country_code_iso_3166_alpha_3": "BHS",
+        "country_code_iso_3166_numeric": "044",
         "internet_tld": ".bs",
         "calling_code": "+1 242",
         "wiki_url": "/wiki/The_Bahamas"
@@ -164,7 +188,9 @@
         "currency": [
             "Bahraini dinar (BHD)"
         ],
-        "country_code_iso_3166": "BH",
+        "country_code_iso_3166_alpha_2": "BH",
+        "country_code_iso_3166_alpha_3": "BHR",
+        "country_code_iso_3166_numeric": "048",
         "internet_tld": ".bh",
         "calling_code": "+973",
         "wiki_url": "/wiki/Bahrain"
@@ -177,7 +203,9 @@
         "currency": [
             "Taka (\u09f3) (BDT)"
         ],
-        "country_code_iso_3166": "BD",
+        "country_code_iso_3166_alpha_2": "BD",
+        "country_code_iso_3166_alpha_3": "BGD",
+        "country_code_iso_3166_numeric": "050",
         "internet_tld": ".bd.\u09ac\u09be\u0982\u09b2\u09be",
         "calling_code": "+880",
         "wiki_url": "/wiki/Bangladesh"
@@ -190,7 +218,9 @@
         "currency": [
             "Barbadian dollar ($) (BBD)"
         ],
-        "country_code_iso_3166": "BB",
+        "country_code_iso_3166_alpha_2": "BB",
+        "country_code_iso_3166_alpha_3": "BRB",
+        "country_code_iso_3166_numeric": "052",
         "internet_tld": ".bb",
         "calling_code": "+1 -246",
         "wiki_url": "/wiki/Barbados"
@@ -203,7 +233,9 @@
         "currency": [
             "Belarusian rubel (BYN)"
         ],
-        "country_code_iso_3166": "BY",
+        "country_code_iso_3166_alpha_2": "BY",
+        "country_code_iso_3166_alpha_3": "BLR",
+        "country_code_iso_3166_numeric": "112",
         "internet_tld": ".by.\u0431\u0435\u043b",
         "calling_code": "+375",
         "wiki_url": "/wiki/Belarus"
@@ -216,7 +248,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "BE",
+        "country_code_iso_3166_alpha_2": "BE",
+        "country_code_iso_3166_alpha_3": "BEL",
+        "country_code_iso_3166_numeric": "056",
         "internet_tld": ".be",
         "calling_code": "+32",
         "wiki_url": "/wiki/Belgium"
@@ -229,7 +263,9 @@
         "currency": [
             "Belize dollar (BZD)"
         ],
-        "country_code_iso_3166": "BZ",
+        "country_code_iso_3166_alpha_2": "BZ",
+        "country_code_iso_3166_alpha_3": "BLZ",
+        "country_code_iso_3166_numeric": "084",
         "internet_tld": ".bz",
         "calling_code": "+501",
         "wiki_url": "/wiki/Belize"
@@ -242,7 +278,9 @@
         "currency": [
             "West African CFA franc (XOF)"
         ],
-        "country_code_iso_3166": "BJ",
+        "country_code_iso_3166_alpha_2": "BJ",
+        "country_code_iso_3166_alpha_3": "BEN",
+        "country_code_iso_3166_numeric": "204",
         "internet_tld": ".bj",
         "calling_code": "+229",
         "wiki_url": "/wiki/Benin"
@@ -256,7 +294,9 @@
             "Ngultrum (BTN)",
             "Indian rupee (\u20b9) (INR)"
         ],
-        "country_code_iso_3166": "BT",
+        "country_code_iso_3166_alpha_2": "BT",
+        "country_code_iso_3166_alpha_3": "BTN",
+        "country_code_iso_3166_numeric": "064",
         "internet_tld": ".bt",
         "calling_code": "+975",
         "wiki_url": "/wiki/Bhutan"
@@ -270,7 +310,9 @@
         "currency": [
             "Boliviano (BOB)"
         ],
-        "country_code_iso_3166": "BO",
+        "country_code_iso_3166_alpha_2": "BO",
+        "country_code_iso_3166_alpha_3": "BOL",
+        "country_code_iso_3166_numeric": "068",
         "internet_tld": ".bo",
         "calling_code": "+591",
         "wiki_url": "/wiki/Bolivia"
@@ -283,7 +325,9 @@
         "currency": [
             "Convertible mark (BAM)"
         ],
-        "country_code_iso_3166": "BA",
+        "country_code_iso_3166_alpha_2": "BA",
+        "country_code_iso_3166_alpha_3": "BIH",
+        "country_code_iso_3166_numeric": "070",
         "internet_tld": ".ba",
         "calling_code": "+387",
         "wiki_url": "/wiki/Bosnia_and_Herzegovina"
@@ -296,7 +340,9 @@
         "currency": [
             "Pula (BWP)"
         ],
-        "country_code_iso_3166": "BW",
+        "country_code_iso_3166_alpha_2": "BW",
+        "country_code_iso_3166_alpha_3": "BWA",
+        "country_code_iso_3166_numeric": "072",
         "internet_tld": ".bw",
         "calling_code": "+267",
         "wiki_url": "/wiki/Botswana"
@@ -309,7 +355,9 @@
         "currency": [
             "Real (R$) (BRL)"
         ],
-        "country_code_iso_3166": "BR",
+        "country_code_iso_3166_alpha_2": "BR",
+        "country_code_iso_3166_alpha_3": "BRA",
+        "country_code_iso_3166_numeric": "076",
         "internet_tld": ".br",
         "calling_code": "+55",
         "wiki_url": "/wiki/Brazil"
@@ -322,7 +370,9 @@
         "currency": [
             "Brunei dollar (BND)"
         ],
-        "country_code_iso_3166": "BN",
+        "country_code_iso_3166_alpha_2": "BN",
+        "country_code_iso_3166_alpha_3": "BRN",
+        "country_code_iso_3166_numeric": "096",
         "internet_tld": ".bn",
         "calling_code": "+673",
         "wiki_url": "/wiki/Brunei"
@@ -335,7 +385,9 @@
         "currency": [
             "Lev (BGN)"
         ],
-        "country_code_iso_3166": "BG",
+        "country_code_iso_3166_alpha_2": "BG",
+        "country_code_iso_3166_alpha_3": "BGR",
+        "country_code_iso_3166_numeric": "100",
         "internet_tld": ".bg.\u0431\u0433",
         "calling_code": "+359",
         "wiki_url": "/wiki/Bulgaria"
@@ -348,7 +400,9 @@
         "currency": [
             "West African CFA franc (XOF)"
         ],
-        "country_code_iso_3166": "BF",
+        "country_code_iso_3166_alpha_2": "BF",
+        "country_code_iso_3166_alpha_3": "BFA",
+        "country_code_iso_3166_numeric": "854",
         "internet_tld": ".bf",
         "calling_code": "+226",
         "wiki_url": "/wiki/Burkina_Faso"
@@ -361,7 +415,9 @@
         "currency": [
             "Burundian franc (FBu) (BIF)"
         ],
-        "country_code_iso_3166": "BI",
+        "country_code_iso_3166_alpha_2": "BI",
+        "country_code_iso_3166_alpha_3": "BDI",
+        "country_code_iso_3166_numeric": "108",
         "internet_tld": ".bi",
         "calling_code": "+257",
         "wiki_url": "/wiki/Burundi"
@@ -375,7 +431,9 @@
             "Riel (\u17db) (KHR; de jure)",
             "United States dollar ($) (USD; de facto)"
         ],
-        "country_code_iso_3166": "KH",
+        "country_code_iso_3166_alpha_2": "KH",
+        "country_code_iso_3166_alpha_3": "KHM",
+        "country_code_iso_3166_numeric": "116",
         "internet_tld": ".kh",
         "calling_code": "+855",
         "wiki_url": "/wiki/Cambodia"
@@ -388,7 +446,9 @@
         "currency": [
             "Central African CFA franc (XAF)"
         ],
-        "country_code_iso_3166": "CM",
+        "country_code_iso_3166_alpha_2": "CM",
+        "country_code_iso_3166_alpha_3": "CMR",
+        "country_code_iso_3166_numeric": "120",
         "internet_tld": ".cm",
         "calling_code": "+237",
         "wiki_url": "/wiki/Cameroon"
@@ -401,7 +461,9 @@
         "currency": [
             "Cape Verdean escudo (CVE)"
         ],
-        "country_code_iso_3166": "CV",
+        "country_code_iso_3166_alpha_2": "CV",
+        "country_code_iso_3166_alpha_3": "CPV",
+        "country_code_iso_3166_numeric": "132",
         "internet_tld": ".cv",
         "calling_code": "+238",
         "wiki_url": "/wiki/Cape_Verde"
@@ -415,7 +477,9 @@
             "Central African CFA franc (XAF)",
             "Bitcoin (BTC)"
         ],
-        "country_code_iso_3166": "CF",
+        "country_code_iso_3166_alpha_2": "CF",
+        "country_code_iso_3166_alpha_3": "CAF",
+        "country_code_iso_3166_numeric": "140",
         "internet_tld": ".cf",
         "calling_code": "+236",
         "wiki_url": "/wiki/Central_African_Republic"
@@ -428,7 +492,9 @@
         "currency": [
             "Central African CFA franc (XAF)"
         ],
-        "country_code_iso_3166": "TD",
+        "country_code_iso_3166_alpha_2": "TD",
+        "country_code_iso_3166_alpha_3": "TCD",
+        "country_code_iso_3166_numeric": "148",
         "internet_tld": ".td",
         "calling_code": "+235",
         "wiki_url": "/wiki/Chad"
@@ -441,7 +507,9 @@
         "currency": [
             "Chilean peso (CLP)"
         ],
-        "country_code_iso_3166": "CL",
+        "country_code_iso_3166_alpha_2": "CL",
+        "country_code_iso_3166_alpha_3": "CHL",
+        "country_code_iso_3166_numeric": "152",
         "internet_tld": ".cl",
         "calling_code": "+56",
         "wiki_url": "/wiki/Chile"
@@ -454,7 +522,9 @@
         "currency": [
             "Renminbi (\u5143/\u00a5) (CNY)"
         ],
-        "country_code_iso_3166": "CN",
+        "country_code_iso_3166_alpha_2": "CN",
+        "country_code_iso_3166_alpha_3": "CHN",
+        "country_code_iso_3166_numeric": "156",
         "internet_tld": ".cn.\u4e2d\u56fd.\u4e2d\u570b (Mainland), .hk.\u9999\u6e2f (Hong Kong), .mo.\u6fb3\u95e8.\u6fb3\u9580 (Macau)",
         "calling_code": "+86 (Mainland), +852 (Hong Kong), +853 (Macau)",
         "wiki_url": "/wiki/China"
@@ -467,7 +537,9 @@
         "currency": [
             "Colombian peso (COP)"
         ],
-        "country_code_iso_3166": "CO",
+        "country_code_iso_3166_alpha_2": "CO",
+        "country_code_iso_3166_alpha_3": "COL",
+        "country_code_iso_3166_numeric": "170",
         "internet_tld": ".co",
         "calling_code": "+57",
         "wiki_url": "/wiki/Colombia"
@@ -480,7 +552,9 @@
         "currency": [
             "Comorian franc (KMF)"
         ],
-        "country_code_iso_3166": "KM",
+        "country_code_iso_3166_alpha_2": "KM",
+        "country_code_iso_3166_alpha_3": "COM",
+        "country_code_iso_3166_numeric": "174",
         "internet_tld": ".km",
         "calling_code": "+269",
         "wiki_url": "/wiki/Comoros"
@@ -493,7 +567,9 @@
         "currency": [
             "Congolese franc (CDF)"
         ],
-        "country_code_iso_3166": "CD",
+        "country_code_iso_3166_alpha_2": "CD",
+        "country_code_iso_3166_alpha_3": "COD",
+        "country_code_iso_3166_numeric": "180",
         "internet_tld": ".cd",
         "calling_code": "+243",
         "wiki_url": "/wiki/Democratic_Republic_of_the_Congo"
@@ -506,7 +582,9 @@
         "currency": [
             "Central African CFA franc (XAF)"
         ],
-        "country_code_iso_3166": "CG",
+        "country_code_iso_3166_alpha_2": "CG",
+        "country_code_iso_3166_alpha_3": "COG",
+        "country_code_iso_3166_numeric": "178",
         "internet_tld": ".cg",
         "calling_code": "+242",
         "wiki_url": "/wiki/Republic_of_the_Congo"
@@ -519,7 +597,9 @@
         "currency": [
             "Costa Rican col\u00f3n (CRC)"
         ],
-        "country_code_iso_3166": "CR",
+        "country_code_iso_3166_alpha_2": "CR",
+        "country_code_iso_3166_alpha_3": "CRI",
+        "country_code_iso_3166_numeric": "188",
         "internet_tld": ".cr.co.cr",
         "calling_code": "+506",
         "wiki_url": "/wiki/Costa_Rica"
@@ -532,7 +612,9 @@
         "currency": [
             "Croatian kuna (HRK)"
         ],
-        "country_code_iso_3166": "HR",
+        "country_code_iso_3166_alpha_2": "HR",
+        "country_code_iso_3166_alpha_3": "HRV",
+        "country_code_iso_3166_numeric": "191",
         "internet_tld": ".hr and .eu",
         "calling_code": "+385",
         "wiki_url": "/wiki/Croatia"
@@ -545,7 +627,9 @@
         "currency": [
             "Cuban peso (CUP)"
         ],
-        "country_code_iso_3166": "CU",
+        "country_code_iso_3166_alpha_2": "CU",
+        "country_code_iso_3166_alpha_3": "CUB",
+        "country_code_iso_3166_numeric": "192",
         "internet_tld": ".cu",
         "calling_code": "+53",
         "wiki_url": "/wiki/Cuba"
@@ -558,7 +642,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "CY",
+        "country_code_iso_3166_alpha_2": "CY",
+        "country_code_iso_3166_alpha_3": "CYP",
+        "country_code_iso_3166_numeric": "196",
         "internet_tld": ".cy",
         "calling_code": "+357",
         "wiki_url": "/wiki/Cyprus"
@@ -571,7 +657,9 @@
         "currency": [
             "Czech koruna (CZK)"
         ],
-        "country_code_iso_3166": "CZ",
+        "country_code_iso_3166_alpha_2": "CZ",
+        "country_code_iso_3166_alpha_3": "CZE",
+        "country_code_iso_3166_numeric": "203",
         "internet_tld": ".cz",
         "calling_code": "+420",
         "wiki_url": "/wiki/Czech_Republic"
@@ -584,7 +672,9 @@
         "currency": [
             "Danish krone (kr.) (DKK)"
         ],
-        "country_code_iso_3166": "DK",
+        "country_code_iso_3166_alpha_2": "DK",
+        "country_code_iso_3166_alpha_3": "DNK",
+        "country_code_iso_3166_numeric": "208",
         "internet_tld": ".dk",
         "calling_code": "+45",
         "wiki_url": "/wiki/Denmark"
@@ -597,7 +687,9 @@
         "currency": [
             "Djiboutian franc (DJF)"
         ],
-        "country_code_iso_3166": "DJ",
+        "country_code_iso_3166_alpha_2": "DJ",
+        "country_code_iso_3166_alpha_3": "DJI",
+        "country_code_iso_3166_numeric": "262",
         "internet_tld": ".dj",
         "calling_code": "+253",
         "wiki_url": "/wiki/Djibouti"
@@ -610,7 +702,9 @@
         "currency": [
             "East Caribbean dollar (XCD)"
         ],
-        "country_code_iso_3166": "DM",
+        "country_code_iso_3166_alpha_2": "DM",
+        "country_code_iso_3166_alpha_3": "DMA",
+        "country_code_iso_3166_numeric": "212",
         "internet_tld": ".dm",
         "calling_code": "+1-767",
         "wiki_url": "/wiki/Dominica"
@@ -623,7 +717,9 @@
         "currency": [
             "Dominican peso (DOP)"
         ],
-        "country_code_iso_3166": "DO",
+        "country_code_iso_3166_alpha_2": "DO",
+        "country_code_iso_3166_alpha_3": "DOM",
+        "country_code_iso_3166_numeric": "214",
         "internet_tld": ".do[4]",
         "calling_code": "+1-809, +1-829, +1-849",
         "wiki_url": "/wiki/Dominican_Republic"
@@ -636,7 +732,9 @@
         "currency": [
             "United States dollar (USD)"
         ],
-        "country_code_iso_3166": "TL",
+        "country_code_iso_3166_alpha_2": "TL",
+        "country_code_iso_3166_alpha_3": "TLS",
+        "country_code_iso_3166_numeric": "626",
         "internet_tld": ".tlc",
         "calling_code": "+670",
         "wiki_url": "/wiki/East_Timor"
@@ -649,7 +747,9 @@
         "currency": [
             "United States dollar (USD)"
         ],
-        "country_code_iso_3166": "EC",
+        "country_code_iso_3166_alpha_2": "EC",
+        "country_code_iso_3166_alpha_3": "ECU",
+        "country_code_iso_3166_numeric": "218",
         "internet_tld": ".ec",
         "calling_code": "+593",
         "wiki_url": "/wiki/Ecuador"
@@ -662,7 +762,9 @@
         "currency": [
             "Egyptian pound (LE/E\u00a3/\u00a3E) (EGP)"
         ],
-        "country_code_iso_3166": "EG",
+        "country_code_iso_3166_alpha_2": "EG",
+        "country_code_iso_3166_alpha_3": "EGY",
+        "country_code_iso_3166_numeric": "818",
         "internet_tld": ".eg\u0645\u0635\u0631.",
         "calling_code": "+20",
         "wiki_url": "/wiki/Egypt"
@@ -676,7 +778,9 @@
             "United States dollar (USD)",
             "Bitcoin (BTC)"
         ],
-        "country_code_iso_3166": "SV",
+        "country_code_iso_3166_alpha_2": "SV",
+        "country_code_iso_3166_alpha_3": "SLV",
+        "country_code_iso_3166_numeric": "222",
         "internet_tld": ".sv",
         "calling_code": "+503",
         "wiki_url": "/wiki/El_Salvador"
@@ -690,7 +794,9 @@
         "currency": [
             "Central African CFA franc (XAF)"
         ],
-        "country_code_iso_3166": "GQ",
+        "country_code_iso_3166_alpha_2": "GQ",
+        "country_code_iso_3166_alpha_3": "GNQ",
+        "country_code_iso_3166_numeric": "226",
         "internet_tld": ".gq",
         "calling_code": "+240",
         "wiki_url": "/wiki/Equatorial_Guinea"
@@ -703,7 +809,9 @@
         "currency": [
             "Nakfa (ERN)"
         ],
-        "country_code_iso_3166": "ER",
+        "country_code_iso_3166_alpha_2": "ER",
+        "country_code_iso_3166_alpha_3": "ERI",
+        "country_code_iso_3166_numeric": "232",
         "internet_tld": ".er",
         "calling_code": "+291",
         "wiki_url": "/wiki/Eritrea"
@@ -716,7 +824,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "EE",
+        "country_code_iso_3166_alpha_2": "EE",
+        "country_code_iso_3166_alpha_3": "EST",
+        "country_code_iso_3166_numeric": "233",
         "internet_tld": ".eeb",
         "calling_code": "+372",
         "wiki_url": "/wiki/Estonia"
@@ -731,7 +841,9 @@
             "Lilangeni (SZL)",
             "South African rand (ZAR)"
         ],
-        "country_code_iso_3166": "SZ",
+        "country_code_iso_3166_alpha_2": "SZ",
+        "country_code_iso_3166_alpha_3": "SWZ",
+        "country_code_iso_3166_numeric": "748",
         "internet_tld": ".sz",
         "calling_code": "+268",
         "wiki_url": "/wiki/Eswatini"
@@ -744,7 +856,9 @@
         "currency": [
             "Birr (ETB)"
         ],
-        "country_code_iso_3166": "ET",
+        "country_code_iso_3166_alpha_2": "ET",
+        "country_code_iso_3166_alpha_3": "ETH",
+        "country_code_iso_3166_numeric": "231",
         "internet_tld": ".et",
         "calling_code": "+251",
         "wiki_url": "/wiki/Ethiopia"
@@ -757,7 +871,9 @@
         "currency": [
             "Fijian dollar (FJD)"
         ],
-        "country_code_iso_3166": "FJ",
+        "country_code_iso_3166_alpha_2": "FJ",
+        "country_code_iso_3166_alpha_3": "FJI",
+        "country_code_iso_3166_numeric": "242",
         "internet_tld": ".fj",
         "calling_code": "+679",
         "wiki_url": "/wiki/Fiji"
@@ -770,7 +886,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "FI",
+        "country_code_iso_3166_alpha_2": "FI",
+        "country_code_iso_3166_alpha_3": "FIN",
+        "country_code_iso_3166_numeric": "246",
         "internet_tld": ".fi, .axa",
         "calling_code": "+358",
         "wiki_url": "/wiki/Finland"
@@ -783,7 +901,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "FR",
+        "country_code_iso_3166_alpha_2": "FR",
+        "country_code_iso_3166_alpha_3": "FRA",
+        "country_code_iso_3166_numeric": "250",
         "internet_tld": ".fr",
         "calling_code": "+33",
         "wiki_url": "/wiki/France"
@@ -796,7 +916,9 @@
         "currency": [
             "Central African CFA franc (XAF)"
         ],
-        "country_code_iso_3166": "GA",
+        "country_code_iso_3166_alpha_2": "GA",
+        "country_code_iso_3166_alpha_3": "GAB",
+        "country_code_iso_3166_numeric": "266",
         "internet_tld": ".ga",
         "calling_code": "+241",
         "wiki_url": "/wiki/Gabon"
@@ -809,7 +931,9 @@
         "currency": [
             "Dalasi (GMD)"
         ],
-        "country_code_iso_3166": "GM",
+        "country_code_iso_3166_alpha_2": "GM",
+        "country_code_iso_3166_alpha_3": "GMB",
+        "country_code_iso_3166_numeric": "270",
         "internet_tld": ".gm",
         "calling_code": "+220",
         "wiki_url": "/wiki/The_Gambia"
@@ -822,7 +946,9 @@
         "currency": [
             "Georgian lari (\u20be) (GEL)"
         ],
-        "country_code_iso_3166": "GE",
+        "country_code_iso_3166_alpha_2": "GE",
+        "country_code_iso_3166_alpha_3": "GEO",
+        "country_code_iso_3166_numeric": "268",
         "internet_tld": ".ge, .\u10d2\u10d4",
         "calling_code": "+995",
         "wiki_url": "/wiki/Georgia_(country)"
@@ -835,7 +961,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "DE",
+        "country_code_iso_3166_alpha_2": "DE",
+        "country_code_iso_3166_alpha_3": "DEU",
+        "country_code_iso_3166_numeric": "276",
         "internet_tld": ".de",
         "calling_code": "+49",
         "wiki_url": "/wiki/Germany"
@@ -848,7 +976,9 @@
         "currency": [
             "Cedi (GHS)"
         ],
-        "country_code_iso_3166": "GH",
+        "country_code_iso_3166_alpha_2": "GH",
+        "country_code_iso_3166_alpha_3": "GHA",
+        "country_code_iso_3166_numeric": "288",
         "internet_tld": ".gh",
         "calling_code": "+233",
         "wiki_url": "/wiki/Ghana"
@@ -861,7 +991,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "GR",
+        "country_code_iso_3166_alpha_2": "GR",
+        "country_code_iso_3166_alpha_3": "GRC",
+        "country_code_iso_3166_numeric": "300",
         "internet_tld": ".grc.\u03b5\u03bb",
         "calling_code": "+30",
         "wiki_url": "/wiki/Greece"
@@ -874,7 +1006,9 @@
         "currency": [
             "East Caribbean dollar (XCD)"
         ],
-        "country_code_iso_3166": "GD",
+        "country_code_iso_3166_alpha_2": "GD",
+        "country_code_iso_3166_alpha_3": "GRD",
+        "country_code_iso_3166_numeric": "308",
         "internet_tld": ".gd",
         "calling_code": "+1-473",
         "wiki_url": "/wiki/Grenada"
@@ -887,7 +1021,9 @@
         "currency": [
             "Quetzal (GTQ)"
         ],
-        "country_code_iso_3166": "GT",
+        "country_code_iso_3166_alpha_2": "GT",
+        "country_code_iso_3166_alpha_3": "GTM",
+        "country_code_iso_3166_numeric": "320",
         "internet_tld": ".gt",
         "calling_code": "+502",
         "wiki_url": "/wiki/Guatemala"
@@ -900,7 +1036,9 @@
         "currency": [
             "Guinean franc (GNF)"
         ],
-        "country_code_iso_3166": "GN",
+        "country_code_iso_3166_alpha_2": "GN",
+        "country_code_iso_3166_alpha_3": "GIN",
+        "country_code_iso_3166_numeric": "324",
         "internet_tld": ".gn",
         "calling_code": "+224",
         "wiki_url": "/wiki/Guinea"
@@ -913,7 +1051,9 @@
         "currency": [
             "West African CFA franc (XOF)"
         ],
-        "country_code_iso_3166": "GW",
+        "country_code_iso_3166_alpha_2": "GW",
+        "country_code_iso_3166_alpha_3": "GNB",
+        "country_code_iso_3166_numeric": "624",
         "internet_tld": ".gw",
         "calling_code": "+245",
         "wiki_url": "/wiki/Guinea-Bissau"
@@ -926,7 +1066,9 @@
         "currency": [
             "Guyanese dollar (GYD)"
         ],
-        "country_code_iso_3166": "GY",
+        "country_code_iso_3166_alpha_2": "GY",
+        "country_code_iso_3166_alpha_3": "GUY",
+        "country_code_iso_3166_numeric": "328",
         "internet_tld": ".gy",
         "calling_code": "+592",
         "wiki_url": "/wiki/Guyana"
@@ -939,7 +1081,9 @@
         "currency": [
             "Lempira (HNL)"
         ],
-        "country_code_iso_3166": "HN",
+        "country_code_iso_3166_alpha_2": "HN",
+        "country_code_iso_3166_alpha_3": "HND",
+        "country_code_iso_3166_numeric": "340",
         "internet_tld": ".hn",
         "calling_code": "+504",
         "wiki_url": "/wiki/Honduras"
@@ -952,7 +1096,9 @@
         "currency": [
             "Forint (HUF)"
         ],
-        "country_code_iso_3166": "HU",
+        "country_code_iso_3166_alpha_2": "HU",
+        "country_code_iso_3166_alpha_3": "HUN",
+        "country_code_iso_3166_numeric": "348",
         "internet_tld": ".hu",
         "calling_code": "+36",
         "wiki_url": "/wiki/Hungary"
@@ -965,7 +1111,9 @@
         "currency": [
             "Icelandic kr\u00f3na (ISK)"
         ],
-        "country_code_iso_3166": "IS",
+        "country_code_iso_3166_alpha_2": "IS",
+        "country_code_iso_3166_alpha_3": "ISL",
+        "country_code_iso_3166_numeric": "352",
         "internet_tld": ".is",
         "calling_code": "+354",
         "wiki_url": "/wiki/Iceland"
@@ -978,7 +1126,9 @@
         "currency": [
             "Indian rupee (\u20b9) (INR)"
         ],
-        "country_code_iso_3166": "IN",
+        "country_code_iso_3166_alpha_2": "IN",
+        "country_code_iso_3166_alpha_3": "IND",
+        "country_code_iso_3166_numeric": "356",
         "internet_tld": ".in",
         "calling_code": "+91",
         "wiki_url": "/wiki/India"
@@ -992,7 +1142,9 @@
         "currency": [
             "Indonesian rupiah (Rp) (IDR)"
         ],
-        "country_code_iso_3166": "ID",
+        "country_code_iso_3166_alpha_2": "ID",
+        "country_code_iso_3166_alpha_3": "IDN",
+        "country_code_iso_3166_numeric": "360",
         "internet_tld": ".id",
         "calling_code": "+62",
         "wiki_url": "/wiki/Indonesia"
@@ -1005,7 +1157,9 @@
         "currency": [
             "Iranian rial (\u0631\u06cc\u0627\u0644) (IRR)"
         ],
-        "country_code_iso_3166": "IR",
+        "country_code_iso_3166_alpha_2": "IR",
+        "country_code_iso_3166_alpha_3": "IRN",
+        "country_code_iso_3166_numeric": "364",
         "internet_tld": ".ir\u0627\u06cc\u0631\u0627\u0646.",
         "calling_code": "+98",
         "wiki_url": "/wiki/Iran"
@@ -1018,7 +1172,9 @@
         "currency": [
             "Iraqi dinar (IQD)"
         ],
-        "country_code_iso_3166": "IQ",
+        "country_code_iso_3166_alpha_2": "IQ",
+        "country_code_iso_3166_alpha_3": "IRQ",
+        "country_code_iso_3166_numeric": "368",
         "internet_tld": ".iq",
         "calling_code": "+964",
         "wiki_url": "/wiki/Iraq"
@@ -1031,7 +1187,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "IE",
+        "country_code_iso_3166_alpha_2": "IE",
+        "country_code_iso_3166_alpha_3": "IRL",
+        "country_code_iso_3166_numeric": "372",
         "internet_tld": ".ie",
         "calling_code": "+353",
         "wiki_url": "/wiki/Republic_of_Ireland"
@@ -1044,7 +1202,9 @@
         "currency": [
             "New shekel (\u20aa) (ILS)"
         ],
-        "country_code_iso_3166": "IL",
+        "country_code_iso_3166_alpha_2": "IL",
+        "country_code_iso_3166_alpha_3": "ISR",
+        "country_code_iso_3166_numeric": "376",
         "internet_tld": ".il",
         "calling_code": "+972",
         "wiki_url": "/wiki/Israel"
@@ -1057,7 +1217,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "IT",
+        "country_code_iso_3166_alpha_2": "IT",
+        "country_code_iso_3166_alpha_3": "ITA",
+        "country_code_iso_3166_numeric": "380",
         "internet_tld": ".itd",
         "calling_code": "+39c",
         "wiki_url": "/wiki/Italy"
@@ -1071,7 +1233,9 @@
         "currency": [
             "West African CFA franc (XOF)"
         ],
-        "country_code_iso_3166": "CI",
+        "country_code_iso_3166_alpha_2": "CI",
+        "country_code_iso_3166_alpha_3": "CIV",
+        "country_code_iso_3166_numeric": "384",
         "internet_tld": ".ci",
         "calling_code": "+225",
         "wiki_url": "/wiki/Ivory_Coast"
@@ -1084,7 +1248,9 @@
         "currency": [
             "Jamaican dollar (JMD)"
         ],
-        "country_code_iso_3166": "JM",
+        "country_code_iso_3166_alpha_2": "JM",
+        "country_code_iso_3166_alpha_3": "JAM",
+        "country_code_iso_3166_numeric": "388",
         "internet_tld": ".jm",
         "calling_code": "+1-876+1-658 (Overlay of 876)",
         "wiki_url": "/wiki/Jamaica"
@@ -1097,7 +1263,9 @@
         "currency": [
             "Japanese yen (\u00a5)"
         ],
-        "country_code_iso_3166": "JP",
+        "country_code_iso_3166_alpha_2": "JP",
+        "country_code_iso_3166_alpha_3": "JPN",
+        "country_code_iso_3166_numeric": "392",
         "internet_tld": ".jp",
         "calling_code": "+81",
         "wiki_url": "/wiki/Japan"
@@ -1110,7 +1278,9 @@
         "currency": [
             "Jordanian dinar (JOD)"
         ],
-        "country_code_iso_3166": "JO",
+        "country_code_iso_3166_alpha_2": "JO",
+        "country_code_iso_3166_alpha_3": "JOR",
+        "country_code_iso_3166_numeric": "400",
         "internet_tld": ".jo.\u0627\u0644\u0627\u0631\u062f\u0646",
         "calling_code": "+962",
         "wiki_url": "/wiki/Jordan"
@@ -1123,7 +1293,9 @@
         "currency": [
             "Tenge (\u20b8) (KZT)"
         ],
-        "country_code_iso_3166": "KZ",
+        "country_code_iso_3166_alpha_2": "KZ",
+        "country_code_iso_3166_alpha_3": "KAZ",
+        "country_code_iso_3166_numeric": "398",
         "internet_tld": ".kz.\u049b\u0430\u0437",
         "calling_code": "+7-6xx, +7-7xx",
         "wiki_url": "/wiki/Kazakhstan"
@@ -1136,7 +1308,9 @@
         "currency": [
             "Kenyan shilling (KES)"
         ],
-        "country_code_iso_3166": "KE",
+        "country_code_iso_3166_alpha_2": "KE",
+        "country_code_iso_3166_alpha_3": "KEN",
+        "country_code_iso_3166_numeric": "404",
         "internet_tld": ".ke",
         "calling_code": "+254",
         "wiki_url": "/wiki/Kenya"
@@ -1149,7 +1323,9 @@
         "currency": [
             "Australian dollar (AUD)"
         ],
-        "country_code_iso_3166": "KI",
+        "country_code_iso_3166_alpha_2": "KI",
+        "country_code_iso_3166_alpha_3": "KIR",
+        "country_code_iso_3166_numeric": "296",
         "internet_tld": ".ki",
         "calling_code": "+686",
         "wiki_url": "/wiki/Kiribati"
@@ -1162,7 +1338,9 @@
         "currency": [
             "Korean People's won (\u20a9) (KPW)"
         ],
-        "country_code_iso_3166": "KP",
+        "country_code_iso_3166_alpha_2": "KP",
+        "country_code_iso_3166_alpha_3": "PRK",
+        "country_code_iso_3166_numeric": "408",
         "internet_tld": ".kp",
         "calling_code": "+850",
         "wiki_url": "/wiki/North_Korea"
@@ -1175,7 +1353,9 @@
         "currency": [
             "Korean Republic won (\u20a9) (KRW)"
         ],
-        "country_code_iso_3166": "KR",
+        "country_code_iso_3166_alpha_2": "KR",
+        "country_code_iso_3166_alpha_3": "KOR",
+        "country_code_iso_3166_numeric": "410",
         "internet_tld": ".kr.\ud55c\uad6d",
         "calling_code": "+82",
         "wiki_url": "/wiki/South_Korea"
@@ -1188,7 +1368,9 @@
         "currency": [
             "Kuwaiti dinar"
         ],
-        "country_code_iso_3166": "KW",
+        "country_code_iso_3166_alpha_2": "KW",
+        "country_code_iso_3166_alpha_3": "KWT",
+        "country_code_iso_3166_numeric": "414",
         "internet_tld": ".kw",
         "calling_code": "+965",
         "wiki_url": "/wiki/Kuwait"
@@ -1201,7 +1383,9 @@
         "currency": [
             "Kyrgyzstani som (KGS)"
         ],
-        "country_code_iso_3166": "KG",
+        "country_code_iso_3166_alpha_2": "KG",
+        "country_code_iso_3166_alpha_3": "KGZ",
+        "country_code_iso_3166_numeric": "417",
         "internet_tld": ".kg",
         "calling_code": "+996",
         "wiki_url": "/wiki/Kyrgyzstan"
@@ -1214,7 +1398,9 @@
         "currency": [
             "Kip (\u20ad) (LAK)"
         ],
-        "country_code_iso_3166": "LA",
+        "country_code_iso_3166_alpha_2": "LA",
+        "country_code_iso_3166_alpha_3": "LAO",
+        "country_code_iso_3166_numeric": "418",
         "internet_tld": ".la",
         "calling_code": "+856",
         "wiki_url": "/wiki/Laos"
@@ -1227,7 +1413,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "LV",
+        "country_code_iso_3166_alpha_2": "LV",
+        "country_code_iso_3166_alpha_3": "LVA",
+        "country_code_iso_3166_numeric": "428",
         "internet_tld": ".lvc",
         "calling_code": "+371",
         "wiki_url": "/wiki/Latvia"
@@ -1240,7 +1428,9 @@
         "currency": [
             "Lebanese pound (LBP)"
         ],
-        "country_code_iso_3166": "LB",
+        "country_code_iso_3166_alpha_2": "LB",
+        "country_code_iso_3166_alpha_3": "LBN",
+        "country_code_iso_3166_numeric": "422",
         "internet_tld": ".lb",
         "calling_code": "+961",
         "wiki_url": "/wiki/Lebanon"
@@ -1254,7 +1444,9 @@
             "Lesotho Loti (LSL)",
             "South African rand (ZAR)"
         ],
-        "country_code_iso_3166": "LS",
+        "country_code_iso_3166_alpha_2": "LS",
+        "country_code_iso_3166_alpha_3": "LSO",
+        "country_code_iso_3166_numeric": "426",
         "internet_tld": ".ls",
         "calling_code": "+266",
         "wiki_url": "/wiki/Lesotho"
@@ -1267,7 +1459,9 @@
         "currency": [
             "Liberian dollar (LRD)"
         ],
-        "country_code_iso_3166": "LR",
+        "country_code_iso_3166_alpha_2": "LR",
+        "country_code_iso_3166_alpha_3": "LBR",
+        "country_code_iso_3166_numeric": "430",
         "internet_tld": ".lr",
         "calling_code": "+231",
         "wiki_url": "/wiki/Liberia"
@@ -1280,7 +1474,9 @@
         "currency": [
             "Libyan dinar (LYD)"
         ],
-        "country_code_iso_3166": "LY",
+        "country_code_iso_3166_alpha_2": "LY",
+        "country_code_iso_3166_alpha_3": "LBY",
+        "country_code_iso_3166_numeric": "434",
         "internet_tld": ".ly\u0644\u064a\u0628\u064a\u0627.",
         "calling_code": "+218",
         "wiki_url": "/wiki/Libya"
@@ -1293,7 +1489,9 @@
         "currency": [
             "Swiss franc (CHF)"
         ],
-        "country_code_iso_3166": "LI",
+        "country_code_iso_3166_alpha_2": "LI",
+        "country_code_iso_3166_alpha_3": "LIE",
+        "country_code_iso_3166_numeric": "438",
         "internet_tld": ".li",
         "calling_code": "+423",
         "wiki_url": "/wiki/Liechtenstein"
@@ -1306,7 +1504,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "LT",
+        "country_code_iso_3166_alpha_2": "LT",
+        "country_code_iso_3166_alpha_3": "LTU",
+        "country_code_iso_3166_numeric": "440",
         "internet_tld": ".lta",
         "calling_code": "+370",
         "wiki_url": "/wiki/Lithuania"
@@ -1319,7 +1519,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "LU",
+        "country_code_iso_3166_alpha_2": "LU",
+        "country_code_iso_3166_alpha_3": "LUX",
+        "country_code_iso_3166_numeric": "442",
         "internet_tld": ".lub",
         "calling_code": "+352",
         "wiki_url": "/wiki/Luxembourg"
@@ -1332,7 +1534,9 @@
         "currency": [
             "Ariary (MGA)"
         ],
-        "country_code_iso_3166": "MG",
+        "country_code_iso_3166_alpha_2": "MG",
+        "country_code_iso_3166_alpha_3": "MDG",
+        "country_code_iso_3166_numeric": "450",
         "internet_tld": ".mg",
         "calling_code": "+261",
         "wiki_url": "/wiki/Madagascar"
@@ -1345,7 +1549,9 @@
         "currency": [
             "Malawian kwacha (D) (MWK)"
         ],
-        "country_code_iso_3166": "MW",
+        "country_code_iso_3166_alpha_2": "MW",
+        "country_code_iso_3166_alpha_3": "MWI",
+        "country_code_iso_3166_numeric": "454",
         "internet_tld": ".mw",
         "calling_code": "+265",
         "wiki_url": "/wiki/Malawi"
@@ -1359,7 +1565,9 @@
         "currency": [
             "Ringgit (RM) (MYR)"
         ],
-        "country_code_iso_3166": "MY",
+        "country_code_iso_3166_alpha_2": "MY",
+        "country_code_iso_3166_alpha_3": "MYS",
+        "country_code_iso_3166_numeric": "458",
         "internet_tld": ".my",
         "calling_code": "+60",
         "wiki_url": "/wiki/Malaysia"
@@ -1373,7 +1581,9 @@
             "Maldivian rufiyaa (MVR)",
             "United States dollar (USD, used in Maldivian resort islands)"
         ],
-        "country_code_iso_3166": "MV",
+        "country_code_iso_3166_alpha_2": "MV",
+        "country_code_iso_3166_alpha_3": "MDV",
+        "country_code_iso_3166_numeric": "462",
         "internet_tld": ".mv",
         "calling_code": "+960",
         "wiki_url": "/wiki/Maldives"
@@ -1386,7 +1596,9 @@
         "currency": [
             "West African CFA franc (XOF)"
         ],
-        "country_code_iso_3166": "ML",
+        "country_code_iso_3166_alpha_2": "ML",
+        "country_code_iso_3166_alpha_3": "MLI",
+        "country_code_iso_3166_numeric": "466",
         "internet_tld": ".ml",
         "calling_code": "+223",
         "wiki_url": "/wiki/Mali"
@@ -1399,7 +1611,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "MT",
+        "country_code_iso_3166_alpha_2": "MT",
+        "country_code_iso_3166_alpha_3": "MLT",
+        "country_code_iso_3166_numeric": "470",
         "internet_tld": ".mt",
         "calling_code": "+356",
         "wiki_url": "/wiki/Malta"
@@ -1412,7 +1626,9 @@
         "currency": [
             "United States dollar (USD)"
         ],
-        "country_code_iso_3166": "MH",
+        "country_code_iso_3166_alpha_2": "MH",
+        "country_code_iso_3166_alpha_3": "MHL",
+        "country_code_iso_3166_numeric": "584",
         "internet_tld": ".mh",
         "calling_code": "+692",
         "wiki_url": "/wiki/Marshall_Islands"
@@ -1425,7 +1641,9 @@
         "currency": [
             "Ouguiya (MRU)"
         ],
-        "country_code_iso_3166": "MR",
+        "country_code_iso_3166_alpha_2": "MR",
+        "country_code_iso_3166_alpha_3": "MRT",
+        "country_code_iso_3166_numeric": "478",
         "internet_tld": ".mr",
         "calling_code": "+222",
         "wiki_url": "/wiki/Mauritania"
@@ -1438,7 +1656,9 @@
         "currency": [
             "Mauritian rupee (MUR)"
         ],
-        "country_code_iso_3166": "MU",
+        "country_code_iso_3166_alpha_2": "MU",
+        "country_code_iso_3166_alpha_3": "MUS",
+        "country_code_iso_3166_numeric": "480",
         "internet_tld": ".mu",
         "calling_code": "+230",
         "wiki_url": "/wiki/Mauritius"
@@ -1451,7 +1671,9 @@
         "currency": [
             "Mexican peso (MXN)"
         ],
-        "country_code_iso_3166": "MX",
+        "country_code_iso_3166_alpha_2": "MX",
+        "country_code_iso_3166_alpha_3": "MEX",
+        "country_code_iso_3166_numeric": "484",
         "internet_tld": ".mx",
         "calling_code": "+52",
         "wiki_url": "/wiki/Mexico"
@@ -1464,7 +1686,9 @@
         "currency": [
             "United States dollar (USD)"
         ],
-        "country_code_iso_3166": "FM",
+        "country_code_iso_3166_alpha_2": "FM",
+        "country_code_iso_3166_alpha_3": "FSM",
+        "country_code_iso_3166_numeric": "583",
         "internet_tld": ".fm",
         "calling_code": "+691",
         "wiki_url": "/wiki/Federated_States_of_Micronesia"
@@ -1477,7 +1701,9 @@
         "currency": [
             "Moldovan leu (MDL)"
         ],
-        "country_code_iso_3166": "MD",
+        "country_code_iso_3166_alpha_2": "MD",
+        "country_code_iso_3166_alpha_3": "MDA",
+        "country_code_iso_3166_numeric": "498",
         "internet_tld": ".md",
         "calling_code": "+373",
         "wiki_url": "/wiki/Moldova"
@@ -1490,7 +1716,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "MC",
+        "country_code_iso_3166_alpha_2": "MC",
+        "country_code_iso_3166_alpha_3": "MCO",
+        "country_code_iso_3166_numeric": "492",
         "internet_tld": ".mc",
         "calling_code": "+377",
         "wiki_url": "/wiki/Monaco"
@@ -1503,7 +1731,9 @@
         "currency": [
             "T\u00f6gr\u00f6g (MNT)"
         ],
-        "country_code_iso_3166": "MN",
+        "country_code_iso_3166_alpha_2": "MN",
+        "country_code_iso_3166_alpha_3": "MNG",
+        "country_code_iso_3166_numeric": "496",
         "internet_tld": ".mn, .\u043c\u043e\u043d",
         "calling_code": "+976",
         "wiki_url": "/wiki/Mongolia"
@@ -1516,7 +1746,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "ME",
+        "country_code_iso_3166_alpha_2": "ME",
+        "country_code_iso_3166_alpha_3": "MNE",
+        "country_code_iso_3166_numeric": "499",
         "internet_tld": ".me",
         "calling_code": "+382",
         "wiki_url": "/wiki/Montenegro"
@@ -1529,7 +1761,9 @@
         "currency": [
             "Moroccan dirham (MAD)"
         ],
-        "country_code_iso_3166": "MA",
+        "country_code_iso_3166_alpha_2": "MA",
+        "country_code_iso_3166_alpha_3": "MAR",
+        "country_code_iso_3166_numeric": "504",
         "internet_tld": ".ma\u0627\u0644\u0645\u063a\u0631\u0628.",
         "calling_code": "+212",
         "wiki_url": "/wiki/Morocco"
@@ -1542,7 +1776,9 @@
         "currency": [
             "Metical (MZN)"
         ],
-        "country_code_iso_3166": "MZ",
+        "country_code_iso_3166_alpha_2": "MZ",
+        "country_code_iso_3166_alpha_3": "MOZ",
+        "country_code_iso_3166_numeric": "508",
         "internet_tld": ".mz",
         "calling_code": "+258",
         "wiki_url": "/wiki/Mozambique"
@@ -1555,7 +1791,9 @@
         "currency": [
             "Kyat (K) (MMK)"
         ],
-        "country_code_iso_3166": "MM",
+        "country_code_iso_3166_alpha_2": "MM",
+        "country_code_iso_3166_alpha_3": "MMR",
+        "country_code_iso_3166_numeric": "104",
         "internet_tld": ".mm",
         "calling_code": "+95",
         "wiki_url": "/wiki/Myanmar"
@@ -1569,7 +1807,9 @@
             "Namibian dollar  (NAD)",
             "South African rand (ZAR)"
         ],
-        "country_code_iso_3166": "NA",
+        "country_code_iso_3166_alpha_2": "NA",
+        "country_code_iso_3166_alpha_3": "NAM",
+        "country_code_iso_3166_numeric": "516",
         "internet_tld": ".na",
         "calling_code": "+264",
         "wiki_url": "/wiki/Namibia"
@@ -1583,7 +1823,9 @@
         "currency": [
             "Australian dollar (AUD)"
         ],
-        "country_code_iso_3166": "NR",
+        "country_code_iso_3166_alpha_2": "NR",
+        "country_code_iso_3166_alpha_3": "NRU",
+        "country_code_iso_3166_numeric": "520",
         "internet_tld": ".nr",
         "calling_code": "+674",
         "wiki_url": "/wiki/Nauru"
@@ -1596,7 +1838,9 @@
         "currency": [
             "Nepalese rupee (Rs, \u0930\u0942) (NPR)"
         ],
-        "country_code_iso_3166": "NP",
+        "country_code_iso_3166_alpha_2": "NP",
+        "country_code_iso_3166_alpha_3": "NPL",
+        "country_code_iso_3166_numeric": "524",
         "internet_tld": ".np",
         "calling_code": "+977",
         "wiki_url": "/wiki/Nepal"
@@ -1609,7 +1853,9 @@
         "currency": [
             "Euro (EUR)"
         ],
-        "country_code_iso_3166": "NL",
+        "country_code_iso_3166_alpha_2": "NL",
+        "country_code_iso_3166_alpha_3": "NLD",
+        "country_code_iso_3166_numeric": "528",
         "internet_tld": ".nl",
         "calling_code": "+31",
         "wiki_url": "/wiki/Kingdom_of_the_Netherlands"
@@ -1622,7 +1868,9 @@
         "currency": [
             "New Zealand dollar ($) (NZD)"
         ],
-        "country_code_iso_3166": "NZ",
+        "country_code_iso_3166_alpha_2": "NZ",
+        "country_code_iso_3166_alpha_3": "NZL",
+        "country_code_iso_3166_numeric": "554",
         "internet_tld": ".nz",
         "calling_code": "+64",
         "wiki_url": "/wiki/New_Zealand"
@@ -1635,7 +1883,9 @@
         "currency": [
             "C\u00f3rdoba (NIO)"
         ],
-        "country_code_iso_3166": "NI",
+        "country_code_iso_3166_alpha_2": "NI",
+        "country_code_iso_3166_alpha_3": "NIC",
+        "country_code_iso_3166_numeric": "558",
         "internet_tld": ".ni",
         "calling_code": "+505",
         "wiki_url": "/wiki/Nicaragua"
@@ -1648,7 +1898,9 @@
         "currency": [
             "West African CFA franc (XOF)"
         ],
-        "country_code_iso_3166": "NE",
+        "country_code_iso_3166_alpha_2": "NE",
+        "country_code_iso_3166_alpha_3": "NER",
+        "country_code_iso_3166_numeric": "562",
         "internet_tld": ".ne",
         "calling_code": "+227",
         "wiki_url": "/wiki/Niger"
@@ -1661,7 +1913,9 @@
         "currency": [
             "Naira (\u20a6) (NGN)"
         ],
-        "country_code_iso_3166": "NG",
+        "country_code_iso_3166_alpha_2": "NG",
+        "country_code_iso_3166_alpha_3": "NGA",
+        "country_code_iso_3166_numeric": "566",
         "internet_tld": ".ng",
         "calling_code": "+234",
         "wiki_url": "/wiki/Nigeria"
@@ -1674,7 +1928,9 @@
         "currency": [
             "North Macedonian denar (MKD)"
         ],
-        "country_code_iso_3166": "MK",
+        "country_code_iso_3166_alpha_2": "MK",
+        "country_code_iso_3166_alpha_3": "MKD",
+        "country_code_iso_3166_numeric": "807",
         "internet_tld": ".mk.\u043c\u043a\u0434",
         "calling_code": "+389",
         "wiki_url": "/wiki/North_Macedonia"
@@ -1687,7 +1943,9 @@
         "currency": [
             "Norwegian krone (NOK)"
         ],
-        "country_code_iso_3166": "NO",
+        "country_code_iso_3166_alpha_2": "NO",
+        "country_code_iso_3166_alpha_3": "NOR",
+        "country_code_iso_3166_numeric": "578",
         "internet_tld": ".nod",
         "calling_code": "+47",
         "wiki_url": "/wiki/Norway"
@@ -1700,7 +1958,9 @@
         "currency": [
             "Omani rial (OMR)"
         ],
-        "country_code_iso_3166": "OM",
+        "country_code_iso_3166_alpha_2": "OM",
+        "country_code_iso_3166_alpha_3": "OMN",
+        "country_code_iso_3166_numeric": "512",
         "internet_tld": ".om, \u0639\u0645\u0627\u0646.",
         "calling_code": "+968",
         "wiki_url": "/wiki/Oman"
@@ -1713,7 +1973,9 @@
         "currency": [
             "Pakistani rupee (\u20a8) (PKR)"
         ],
-        "country_code_iso_3166": "PK",
+        "country_code_iso_3166_alpha_2": "PK",
+        "country_code_iso_3166_alpha_3": "PAK",
+        "country_code_iso_3166_numeric": "586",
         "internet_tld": ".pk\u067e\u0627\u06a9\u0633\u062a\u0627\u0646.",
         "calling_code": "+92",
         "wiki_url": "/wiki/Pakistan"
@@ -1726,7 +1988,9 @@
         "currency": [
             "United States dollar (USD)"
         ],
-        "country_code_iso_3166": "PW",
+        "country_code_iso_3166_alpha_2": "PW",
+        "country_code_iso_3166_alpha_3": "PLW",
+        "country_code_iso_3166_numeric": "585",
         "internet_tld": ".pw",
         "calling_code": "+680",
         "wiki_url": "/wiki/Palau"
@@ -1741,7 +2005,9 @@
             "Israeli new shekel (ILS)",
             "Jordanian dinar (JOD)"
         ],
-        "country_code_iso_3166": "PS",
+        "country_code_iso_3166_alpha_2": "PS",
+        "country_code_iso_3166_alpha_3": "PSE",
+        "country_code_iso_3166_numeric": "275",
         "internet_tld": ".ps",
         "calling_code": "+970",
         "wiki_url": "/wiki/State_of_Palestine"
@@ -1755,7 +2021,9 @@
             "Balboa (PAB)",
             "United States dollar (USD)"
         ],
-        "country_code_iso_3166": "PA",
+        "country_code_iso_3166_alpha_2": "PA",
+        "country_code_iso_3166_alpha_3": "PAN",
+        "country_code_iso_3166_numeric": "591",
         "internet_tld": ".pa",
         "calling_code": "+507",
         "wiki_url": "/wiki/Panama"
@@ -1768,7 +2036,9 @@
         "currency": [
             "Kina (PGK)"
         ],
-        "country_code_iso_3166": "PG",
+        "country_code_iso_3166_alpha_2": "PG",
+        "country_code_iso_3166_alpha_3": "PNG",
+        "country_code_iso_3166_numeric": "598",
         "internet_tld": ".pg",
         "calling_code": "+675",
         "wiki_url": "/wiki/Papua_New_Guinea"
@@ -1781,7 +2051,9 @@
         "currency": [
             "Guaran\u00ed (PYG)"
         ],
-        "country_code_iso_3166": "PY",
+        "country_code_iso_3166_alpha_2": "PY",
+        "country_code_iso_3166_alpha_3": "PRY",
+        "country_code_iso_3166_numeric": "600",
         "internet_tld": ".py",
         "calling_code": "+595",
         "wiki_url": "/wiki/Paraguay"
@@ -1794,7 +2066,9 @@
         "currency": [
             "Sol (PEN)"
         ],
-        "country_code_iso_3166": "PE",
+        "country_code_iso_3166_alpha_2": "PE",
+        "country_code_iso_3166_alpha_3": "PER",
+        "country_code_iso_3166_numeric": "604",
         "internet_tld": ".pe",
         "calling_code": "+51",
         "wiki_url": "/wiki/Peru"
@@ -1807,7 +2081,9 @@
         "currency": [
             "Philippine peso (\u20b1) (PHP)"
         ],
-        "country_code_iso_3166": "PH",
+        "country_code_iso_3166_alpha_2": "PH",
+        "country_code_iso_3166_alpha_3": "PHL",
+        "country_code_iso_3166_numeric": "608",
         "internet_tld": ".ph",
         "calling_code": "+63",
         "wiki_url": "/wiki/Philippines"
@@ -1820,7 +2096,9 @@
         "currency": [
             "Z\u0142oty (PLN)"
         ],
-        "country_code_iso_3166": "PL",
+        "country_code_iso_3166_alpha_2": "PL",
+        "country_code_iso_3166_alpha_3": "POL",
+        "country_code_iso_3166_numeric": "616",
         "internet_tld": ".pl",
         "calling_code": "+48",
         "wiki_url": "/wiki/Poland"
@@ -1833,7 +2111,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "PT",
+        "country_code_iso_3166_alpha_2": "PT",
+        "country_code_iso_3166_alpha_3": "PRT",
+        "country_code_iso_3166_numeric": "620",
         "internet_tld": ".pt",
         "calling_code": "+351",
         "wiki_url": "/wiki/Portugal"
@@ -1846,7 +2126,9 @@
         "currency": [
             "Qatari riyal (QAR)"
         ],
-        "country_code_iso_3166": "QA",
+        "country_code_iso_3166_alpha_2": "QA",
+        "country_code_iso_3166_alpha_3": "QAT",
+        "country_code_iso_3166_numeric": "634",
         "internet_tld": ".qa\u0642\u0637\u0631.",
         "calling_code": "+974",
         "wiki_url": "/wiki/Qatar"
@@ -1859,7 +2141,9 @@
         "currency": [
             "Romanian leu (RON)"
         ],
-        "country_code_iso_3166": "RO",
+        "country_code_iso_3166_alpha_2": "RO",
+        "country_code_iso_3166_alpha_3": "ROU",
+        "country_code_iso_3166_numeric": "642",
         "internet_tld": ".roa",
         "calling_code": "+40",
         "wiki_url": "/wiki/Romania"
@@ -1872,7 +2156,9 @@
         "currency": [
             "Russian ruble (\u20bd) (RUB)"
         ],
-        "country_code_iso_3166": "RU",
+        "country_code_iso_3166_alpha_2": "RU",
+        "country_code_iso_3166_alpha_3": "RUS",
+        "country_code_iso_3166_numeric": "643",
         "internet_tld": ".ru.\u0440\u0444",
         "calling_code": "+7",
         "wiki_url": "/wiki/Russia"
@@ -1885,7 +2171,9 @@
         "currency": [
             "Rwandan franc (RWF)"
         ],
-        "country_code_iso_3166": "RW",
+        "country_code_iso_3166_alpha_2": "RW",
+        "country_code_iso_3166_alpha_3": "RWA",
+        "country_code_iso_3166_numeric": "646",
         "internet_tld": ".rw",
         "calling_code": "+250",
         "wiki_url": "/wiki/Rwanda"
@@ -1898,7 +2186,9 @@
         "currency": [
             "East Caribbean dollar (EC$) (XCD)"
         ],
-        "country_code_iso_3166": "KN",
+        "country_code_iso_3166_alpha_2": "KN",
+        "country_code_iso_3166_alpha_3": "KNA",
+        "country_code_iso_3166_numeric": "659",
         "internet_tld": ".kn",
         "calling_code": "+1 869",
         "wiki_url": "/wiki/Saint_Kitts_and_Nevis"
@@ -1911,7 +2201,9 @@
         "currency": [
             "East Caribbean dollar (XCD)"
         ],
-        "country_code_iso_3166": "LC",
+        "country_code_iso_3166_alpha_2": "LC",
+        "country_code_iso_3166_alpha_3": "LCA",
+        "country_code_iso_3166_numeric": "662",
         "internet_tld": ".lc",
         "calling_code": "+1 758",
         "wiki_url": "/wiki/Saint_Lucia"
@@ -1924,7 +2216,9 @@
         "currency": [
             "East Caribbean dollar (XCD)"
         ],
-        "country_code_iso_3166": "VC",
+        "country_code_iso_3166_alpha_2": "VC",
+        "country_code_iso_3166_alpha_3": "VCT",
+        "country_code_iso_3166_numeric": "670",
         "internet_tld": ".vc",
         "calling_code": "+1 784",
         "wiki_url": "/wiki/Saint_Vincent_and_the_Grenadines"
@@ -1937,7 +2231,9 @@
         "currency": [
             "T\u0101l\u0101 (WS$b) (WST)"
         ],
-        "country_code_iso_3166": "WS",
+        "country_code_iso_3166_alpha_2": "WS",
+        "country_code_iso_3166_alpha_3": "WSM",
+        "country_code_iso_3166_numeric": "882",
         "internet_tld": ".ws",
         "calling_code": "+685",
         "wiki_url": "/wiki/Samoa"
@@ -1950,7 +2246,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "SM",
+        "country_code_iso_3166_alpha_2": "SM",
+        "country_code_iso_3166_alpha_3": "SMR",
+        "country_code_iso_3166_numeric": "674",
         "internet_tld": ".sm",
         "calling_code": "+378 (+39 0549 calling via Italy)",
         "wiki_url": "/wiki/San_Marino"
@@ -1963,7 +2261,9 @@
         "currency": [
             "Dobra (STN)"
         ],
-        "country_code_iso_3166": "ST",
+        "country_code_iso_3166_alpha_2": "ST",
+        "country_code_iso_3166_alpha_3": "STP",
+        "country_code_iso_3166_numeric": "678",
         "internet_tld": ".st",
         "calling_code": "+239",
         "wiki_url": "/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
@@ -1976,7 +2276,9 @@
         "currency": [
             "Saudi riyal (SR) (SAR)"
         ],
-        "country_code_iso_3166": "SA",
+        "country_code_iso_3166_alpha_2": "SA",
+        "country_code_iso_3166_alpha_3": "SAU",
+        "country_code_iso_3166_numeric": "682",
         "internet_tld": ".sa\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629.",
         "calling_code": "+966",
         "wiki_url": "/wiki/Saudi_Arabia"
@@ -1989,7 +2291,9 @@
         "currency": [
             "West African CFA franc (XOF)"
         ],
-        "country_code_iso_3166": "SN",
+        "country_code_iso_3166_alpha_2": "SN",
+        "country_code_iso_3166_alpha_3": "SEN",
+        "country_code_iso_3166_numeric": "686",
         "internet_tld": ".sn",
         "calling_code": "+221",
         "wiki_url": "/wiki/Senegal"
@@ -2002,7 +2306,9 @@
         "currency": [
             "Serbian dinar (RSD)"
         ],
-        "country_code_iso_3166": "RS",
+        "country_code_iso_3166_alpha_2": "RS",
+        "country_code_iso_3166_alpha_3": "SRB",
+        "country_code_iso_3166_numeric": "688",
         "internet_tld": ".rs.\u0441\u0440\u0431",
         "calling_code": "+381",
         "wiki_url": "/wiki/Serbia"
@@ -2015,7 +2321,9 @@
         "currency": [
             "Seychellois rupee (SCR)"
         ],
-        "country_code_iso_3166": "SC",
+        "country_code_iso_3166_alpha_2": "SC",
+        "country_code_iso_3166_alpha_3": "SYC",
+        "country_code_iso_3166_numeric": "690",
         "internet_tld": ".sc",
         "calling_code": "+248",
         "wiki_url": "/wiki/Seychelles"
@@ -2028,7 +2336,9 @@
         "currency": [
             "Leone (SLL)"
         ],
-        "country_code_iso_3166": "SL",
+        "country_code_iso_3166_alpha_2": "SL",
+        "country_code_iso_3166_alpha_3": "SLE",
+        "country_code_iso_3166_numeric": "694",
         "internet_tld": ".sl",
         "calling_code": "+232",
         "wiki_url": "/wiki/Sierra_Leone"
@@ -2039,7 +2349,9 @@
         "currency": [
             "Singapore dollar (S$) (SGD)"
         ],
-        "country_code_iso_3166": "SG",
+        "country_code_iso_3166_alpha_2": "SG",
+        "country_code_iso_3166_alpha_3": "SGP",
+        "country_code_iso_3166_numeric": "702",
         "internet_tld": ".sg",
         "calling_code": "+65",
         "wiki_url": "/wiki/Singapore"
@@ -2052,7 +2364,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "SK",
+        "country_code_iso_3166_alpha_2": "SK",
+        "country_code_iso_3166_alpha_3": "SVK",
+        "country_code_iso_3166_numeric": "703",
         "internet_tld": ".sk and .eu",
         "calling_code": "+421",
         "wiki_url": "/wiki/Slovakia"
@@ -2065,7 +2379,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "SI",
+        "country_code_iso_3166_alpha_2": "SI",
+        "country_code_iso_3166_alpha_3": "SVN",
+        "country_code_iso_3166_numeric": "705",
         "internet_tld": ".si[ii]",
         "calling_code": "+386",
         "wiki_url": "/wiki/Slovenia"
@@ -2078,7 +2394,9 @@
         "currency": [
             "Solomon Islands dollar (SBD)"
         ],
-        "country_code_iso_3166": "SB",
+        "country_code_iso_3166_alpha_2": "SB",
+        "country_code_iso_3166_alpha_3": "SLB",
+        "country_code_iso_3166_numeric": "090",
         "internet_tld": ".sb",
         "calling_code": "+677",
         "wiki_url": "/wiki/Solomon_Islands"
@@ -2091,7 +2409,9 @@
         "currency": [
             "Somali shilling (SOS)"
         ],
-        "country_code_iso_3166": "SO",
+        "country_code_iso_3166_alpha_2": "SO",
+        "country_code_iso_3166_alpha_3": "SOM",
+        "country_code_iso_3166_numeric": "706",
         "internet_tld": ".so",
         "calling_code": "+252",
         "wiki_url": "/wiki/Somalia"
@@ -2106,7 +2426,9 @@
         "currency": [
             "South African rand (ZAR)"
         ],
-        "country_code_iso_3166": "ZA",
+        "country_code_iso_3166_alpha_2": "ZA",
+        "country_code_iso_3166_alpha_3": "ZAF",
+        "country_code_iso_3166_numeric": "710",
         "internet_tld": ".za",
         "calling_code": "+27",
         "wiki_url": "/wiki/South_Africa"
@@ -2119,7 +2441,9 @@
         "currency": [
             "South Sudanese pound (SSP)"
         ],
-        "country_code_iso_3166": "SS",
+        "country_code_iso_3166_alpha_2": "SS",
+        "country_code_iso_3166_alpha_3": "SSD",
+        "country_code_iso_3166_numeric": "728",
         "internet_tld": ".ss",
         "calling_code": "+211",
         "wiki_url": "/wiki/South_Sudan"
@@ -2132,7 +2456,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "ES",
+        "country_code_iso_3166_alpha_2": "ES",
+        "country_code_iso_3166_alpha_3": "ESP",
+        "country_code_iso_3166_numeric": "724",
         "internet_tld": ".es",
         "calling_code": "+34",
         "wiki_url": "/wiki/Spain"
@@ -2146,7 +2472,9 @@
         "currency": [
             "Sri Lankan rupee (Rs) (LKR)"
         ],
-        "country_code_iso_3166": "LK",
+        "country_code_iso_3166_alpha_2": "LK",
+        "country_code_iso_3166_alpha_3": "LKA",
+        "country_code_iso_3166_numeric": "144",
         "internet_tld": ".lk.\u0dbd\u0d82\u0d9a\u0dcf.\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
         "calling_code": "+94",
         "wiki_url": "/wiki/Sri_Lanka"
@@ -2159,7 +2487,9 @@
         "currency": [
             "Sudanese pound (SDG)"
         ],
-        "country_code_iso_3166": "SD",
+        "country_code_iso_3166_alpha_2": "SD",
+        "country_code_iso_3166_alpha_3": "SDN",
+        "country_code_iso_3166_numeric": "729",
         "internet_tld": ".sd\u0633\u0648\u062f\u0627\u0646.",
         "calling_code": "+249",
         "wiki_url": "/wiki/Sudan"
@@ -2172,7 +2502,9 @@
         "currency": [
             "Surinamese dollar (SRD)"
         ],
-        "country_code_iso_3166": "SR",
+        "country_code_iso_3166_alpha_2": "SR",
+        "country_code_iso_3166_alpha_3": "SUR",
+        "country_code_iso_3166_numeric": "740",
         "internet_tld": ".sr",
         "calling_code": "+597",
         "wiki_url": "/wiki/Suriname"
@@ -2185,7 +2517,9 @@
         "currency": [
             "Swedish krona (SEK)"
         ],
-        "country_code_iso_3166": "SE",
+        "country_code_iso_3166_alpha_2": "SE",
+        "country_code_iso_3166_alpha_3": "SWE",
+        "country_code_iso_3166_numeric": "752",
         "internet_tld": ".se",
         "calling_code": "+46",
         "wiki_url": "/wiki/Sweden"
@@ -2199,7 +2533,9 @@
         "currency": [
             "Swiss franc (CHF)"
         ],
-        "country_code_iso_3166": "CH",
+        "country_code_iso_3166_alpha_2": "CH",
+        "country_code_iso_3166_alpha_3": "CHE",
+        "country_code_iso_3166_numeric": "756",
         "internet_tld": ".ch, .swiss",
         "calling_code": "+41",
         "wiki_url": "/wiki/Switzerland"
@@ -2212,7 +2548,9 @@
         "currency": [
             "Syrian pound (SYP)"
         ],
-        "country_code_iso_3166": "SY",
+        "country_code_iso_3166_alpha_2": "SY",
+        "country_code_iso_3166_alpha_3": "SYR",
+        "country_code_iso_3166_numeric": "760",
         "internet_tld": ".sy\u0633\u0648\u0631\u064a\u0627.",
         "calling_code": "+963",
         "wiki_url": "/wiki/Syria"
@@ -2225,7 +2563,9 @@
         "currency": [
             "Somoni (TJS)"
         ],
-        "country_code_iso_3166": "TJ",
+        "country_code_iso_3166_alpha_2": "TJ",
+        "country_code_iso_3166_alpha_3": "TJK",
+        "country_code_iso_3166_numeric": "762",
         "internet_tld": ".tj",
         "calling_code": "+992",
         "wiki_url": "/wiki/Tajikistan"
@@ -2238,7 +2578,9 @@
         "currency": [
             "Tanzanian shilling (TZS)"
         ],
-        "country_code_iso_3166": "TZ",
+        "country_code_iso_3166_alpha_2": "TZ",
+        "country_code_iso_3166_alpha_3": "TZA",
+        "country_code_iso_3166_numeric": "834",
         "internet_tld": ".tz",
         "calling_code": "+255[a]",
         "wiki_url": "/wiki/Tanzania"
@@ -2251,7 +2593,9 @@
         "currency": [
             "Baht (\u0e3f) (THB)"
         ],
-        "country_code_iso_3166": "TH",
+        "country_code_iso_3166_alpha_2": "TH",
+        "country_code_iso_3166_alpha_3": "THA",
+        "country_code_iso_3166_numeric": "764",
         "internet_tld": ".th.\u0e44\u0e17\u0e22",
         "calling_code": "+66",
         "wiki_url": "/wiki/Thailand"
@@ -2264,7 +2608,9 @@
         "currency": [
             "West African CFA franc (XOF)"
         ],
-        "country_code_iso_3166": "TG",
+        "country_code_iso_3166_alpha_2": "TG",
+        "country_code_iso_3166_alpha_3": "TGO",
+        "country_code_iso_3166_numeric": "768",
         "internet_tld": ".tg",
         "calling_code": "+228",
         "wiki_url": "/wiki/Togo"
@@ -2277,7 +2623,9 @@
         "currency": [
             "Pa\u02bbanga (TOP)"
         ],
-        "country_code_iso_3166": "TO",
+        "country_code_iso_3166_alpha_2": "TO",
+        "country_code_iso_3166_alpha_3": "TON",
+        "country_code_iso_3166_numeric": "776",
         "internet_tld": ".to",
         "calling_code": "+676",
         "wiki_url": "/wiki/Tonga"
@@ -2290,7 +2638,9 @@
         "currency": [
             "Trinidad and Tobago dollar (TTD)"
         ],
-        "country_code_iso_3166": "TT",
+        "country_code_iso_3166_alpha_2": "TT",
+        "country_code_iso_3166_alpha_3": "TTO",
+        "country_code_iso_3166_numeric": "780",
         "internet_tld": ".tt",
         "calling_code": "+1 (868)",
         "wiki_url": "/wiki/Trinidad_and_Tobago"
@@ -2303,7 +2653,9 @@
         "currency": [
             "Tunisian dinar (TND)"
         ],
-        "country_code_iso_3166": "TN",
+        "country_code_iso_3166_alpha_2": "TN",
+        "country_code_iso_3166_alpha_3": "TUN",
+        "country_code_iso_3166_numeric": "788",
         "internet_tld": ".tn.\u062a\u0648\u0646\u0633",
         "calling_code": "+216",
         "wiki_url": "/wiki/Tunisia"
@@ -2316,7 +2668,9 @@
         "currency": [
             "Turkish lira (\u20ba) (TRY)"
         ],
-        "country_code_iso_3166": "TR",
+        "country_code_iso_3166_alpha_2": "TR",
+        "country_code_iso_3166_alpha_3": "TUR",
+        "country_code_iso_3166_numeric": "792",
         "internet_tld": ".tr",
         "calling_code": "+90",
         "wiki_url": "/wiki/Turkey"
@@ -2329,7 +2683,9 @@
         "currency": [
             "Manat (TMT)"
         ],
-        "country_code_iso_3166": "TM",
+        "country_code_iso_3166_alpha_2": "TM",
+        "country_code_iso_3166_alpha_3": "TKM",
+        "country_code_iso_3166_numeric": "795",
         "internet_tld": ".tm",
         "calling_code": "+993",
         "wiki_url": "/wiki/Turkmenistan"
@@ -2343,7 +2699,9 @@
             "Tuvaluan dollar",
             "Australian dollar (AUD)"
         ],
-        "country_code_iso_3166": "TV",
+        "country_code_iso_3166_alpha_2": "TV",
+        "country_code_iso_3166_alpha_3": "TUV",
+        "country_code_iso_3166_numeric": "798",
         "internet_tld": ".tv",
         "calling_code": "+688",
         "wiki_url": "/wiki/Tuvalu"
@@ -2356,7 +2714,9 @@
         "currency": [
             "Ugandan shilling (UGX)"
         ],
-        "country_code_iso_3166": "UG",
+        "country_code_iso_3166_alpha_2": "UG",
+        "country_code_iso_3166_alpha_3": "UGA",
+        "country_code_iso_3166_numeric": "800",
         "internet_tld": ".ug",
         "calling_code": "+256",
         "wiki_url": "/wiki/Uganda"
@@ -2369,7 +2729,9 @@
         "currency": [
             "Hryvnia (\u20b4) (UAH)"
         ],
-        "country_code_iso_3166": "UA",
+        "country_code_iso_3166_alpha_2": "UA",
+        "country_code_iso_3166_alpha_3": "UKR",
+        "country_code_iso_3166_numeric": "804",
         "internet_tld": ".ua.\u0443\u043a\u0440",
         "calling_code": "+380",
         "wiki_url": "/wiki/Ukraine"
@@ -2382,7 +2744,9 @@
         "currency": [
             "UAE dirham (AED)"
         ],
-        "country_code_iso_3166": "AE",
+        "country_code_iso_3166_alpha_2": "AE",
+        "country_code_iso_3166_alpha_3": "ARE",
+        "country_code_iso_3166_numeric": "784",
         "internet_tld": ".ae\u0627\u0645\u0627\u0631\u0627\u062a.",
         "calling_code": "+971",
         "wiki_url": "/wiki/United_Arab_Emirates"
@@ -2395,7 +2759,9 @@
         "currency": [
             "Pound\u00a0sterling (GBP)"
         ],
-        "country_code_iso_3166": "GB",
+        "country_code_iso_3166_alpha_2": "GB",
+        "country_code_iso_3166_alpha_3": "GBR",
+        "country_code_iso_3166_numeric": "826",
         "internet_tld": ".uk",
         "calling_code": "+44",
         "wiki_url": "/wiki/United_Kingdom"
@@ -2408,8 +2774,10 @@
         "currency": [
             "U.S. dollar ($) (USD)"
         ],
-        "country_code_iso_3166": "US",
-        "internet_tld": null,
+        "country_code_iso_3166_alpha_2": "US",
+        "country_code_iso_3166_alpha_3": "USA",
+        "country_code_iso_3166_numeric": "840",
+        "internet_tld": ".us",
         "calling_code": "+1",
         "wiki_url": "/wiki/United_States"
     },
@@ -2421,7 +2789,9 @@
         "currency": [
             "Uruguayan peso (UYU)"
         ],
-        "country_code_iso_3166": "UY",
+        "country_code_iso_3166_alpha_2": "UY",
+        "country_code_iso_3166_alpha_3": "URY",
+        "country_code_iso_3166_numeric": "858",
         "internet_tld": ".uy",
         "calling_code": "+598",
         "wiki_url": "/wiki/Uruguay"
@@ -2434,7 +2804,9 @@
         "currency": [
             "Uzbek soum (UZS)"
         ],
-        "country_code_iso_3166": "UZ",
+        "country_code_iso_3166_alpha_2": "UZ",
+        "country_code_iso_3166_alpha_3": "UZB",
+        "country_code_iso_3166_numeric": "860",
         "internet_tld": ".uz",
         "calling_code": "+998",
         "wiki_url": "/wiki/Uzbekistan"
@@ -2447,7 +2819,9 @@
         "currency": [
             "Vatu (VUV)"
         ],
-        "country_code_iso_3166": "VU",
+        "country_code_iso_3166_alpha_2": "VU",
+        "country_code_iso_3166_alpha_3": "VUT",
+        "country_code_iso_3166_numeric": "548",
         "internet_tld": ".vu",
         "calling_code": "+678",
         "wiki_url": "/wiki/Vanuatu"
@@ -2458,7 +2832,9 @@
         "currency": [
             "Euro (\u20ac) (EUR)"
         ],
-        "country_code_iso_3166": "VA",
+        "country_code_iso_3166_alpha_2": "VA",
+        "country_code_iso_3166_alpha_3": "VAT",
+        "country_code_iso_3166_numeric": "336",
         "internet_tld": ".va",
         "calling_code": "+379",
         "wiki_url": "/wiki/Vatican_City"
@@ -2471,7 +2847,9 @@
         "currency": [
             "Venezuelan bol\u00edvar (VED)"
         ],
-        "country_code_iso_3166": "VE",
+        "country_code_iso_3166_alpha_2": "VE",
+        "country_code_iso_3166_alpha_3": "VEN",
+        "country_code_iso_3166_numeric": "862",
         "internet_tld": ".ve",
         "calling_code": "+58",
         "wiki_url": "/wiki/Venezuela"
@@ -2484,7 +2862,9 @@
         "currency": [
             "\u0111\u1ed3ng (\u20ab) (VND)"
         ],
-        "country_code_iso_3166": "VN",
+        "country_code_iso_3166_alpha_2": "VN",
+        "country_code_iso_3166_alpha_3": "VNM",
+        "country_code_iso_3166_numeric": "704",
         "internet_tld": ".vn",
         "calling_code": "+84",
         "wiki_url": "/wiki/Vietnam"
@@ -2497,7 +2877,9 @@
         "currency": [
             "Yemeni rial (YER)"
         ],
-        "country_code_iso_3166": "YE",
+        "country_code_iso_3166_alpha_2": "YE",
+        "country_code_iso_3166_alpha_3": "YEM",
+        "country_code_iso_3166_numeric": "887",
         "internet_tld": ".ye, \u0627\u0644\u064a\u0645\u0646.",
         "calling_code": "+967",
         "wiki_url": "/wiki/Yemen"
@@ -2510,7 +2892,9 @@
         "currency": [
             "Zambian kwacha (ZMW)"
         ],
-        "country_code_iso_3166": "ZM",
+        "country_code_iso_3166_alpha_2": "ZM",
+        "country_code_iso_3166_alpha_3": "ZMB",
+        "country_code_iso_3166_numeric": "894",
         "internet_tld": ".zm",
         "calling_code": "+260",
         "wiki_url": "/wiki/Zambia"
@@ -2524,7 +2908,9 @@
             "Zimbabwean dollar",
             "U.S. dollar ($) (USD)"
         ],
-        "country_code_iso_3166": "ZW",
+        "country_code_iso_3166_alpha_2": "ZW",
+        "country_code_iso_3166_alpha_3": "ZWE",
+        "country_code_iso_3166_numeric": "716",
         "internet_tld": ".zw",
         "calling_code": "+263",
         "wiki_url": "/wiki/Zimbabwe"
@@ -2538,7 +2924,9 @@
             "New Zealand dollar (NZD)",
             "Cook Islands dollar (formerly)"
         ],
-        "country_code_iso_3166": "CK",
+        "country_code_iso_3166_alpha_2": "CK",
+        "country_code_iso_3166_alpha_3": "COK",
+        "country_code_iso_3166_numeric": "184",
         "internet_tld": ".ck",
         "calling_code": "+682",
         "wiki_url": "/wiki/Cook_Islands"
@@ -2551,7 +2939,9 @@
         "currency": [
             "Euro (\u20ac)b (EUR)"
         ],
-        "country_code_iso_3166": "XK",
+        "country_code_iso_3166_alpha_2": "XK",
+        "country_code_iso_3166_alpha_3": null,
+        "country_code_iso_3166_numeric": null,
         "internet_tld": ".xkc (proposed)",
         "calling_code": "+383",
         "wiki_url": "/wiki/Kosovo"
@@ -2564,7 +2954,9 @@
         "currency": [
             "New Zealand dollar (NZD)"
         ],
-        "country_code_iso_3166": "NU",
+        "country_code_iso_3166_alpha_2": "NU",
+        "country_code_iso_3166_alpha_3": "NIU",
+        "country_code_iso_3166_numeric": "570",
         "internet_tld": ".nu",
         "calling_code": "+683",
         "wiki_url": "/wiki/Niue"
@@ -2581,7 +2973,9 @@
             "Mauritanian ouguiya",
             "de\u00a0jure - Sahrawi peseta"
         ],
-        "country_code_iso_3166": "EH",
+        "country_code_iso_3166_alpha_2": "EH",
+        "country_code_iso_3166_alpha_3": "ESH",
+        "country_code_iso_3166_numeric": "732",
         "internet_tld": null,
         "calling_code": null,
         "wiki_url": "/wiki/Sahrawi_Arab_Democratic_Republic"
@@ -2594,7 +2988,9 @@
         "currency": [
             "New Taiwan dollar (NT$) (TWD)"
         ],
-        "country_code_iso_3166": "TW",
+        "country_code_iso_3166_alpha_2": "TW",
+        "country_code_iso_3166_alpha_3": "TWN",
+        "country_code_iso_3166_numeric": "158",
         "internet_tld": ".tw.\u53f0\u7063.\u53f0\u6e7e",
         "calling_code": "+886",
         "wiki_url": "/wiki/Taiwan"
@@ -2607,7 +3003,9 @@
         "currency": [
             "Canadian dollar ($) (CAD)"
         ],
-        "country_code_iso_3166": null,
+        "country_code_iso_3166_alpha_2": "CA",
+        "country_code_iso_3166_alpha_3": "CAN",
+        "country_code_iso_3166_numeric": "124",
         "internet_tld": ".ca",
         "calling_code": "+1",
         "wiki_url": "/wiki/Canada"
